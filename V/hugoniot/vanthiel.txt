@@ -1,0 +1,162 @@
+#    54---1                                                            page 1
+#    vanadium
+
+#    v
+
+
+
+#    v0 = 0.164 cc/g                         c0 = 5.18 km/sec
+#    v0i = 0.1660 cc/g
+
+#    in the table below, velocities are given in mm/microsec.
+#    pressures in kilobars and density in g/cc
+
+#                                      table
+
+#                    -  - - - -  - sample - - - - - -       standard
+
+#                     rho0    Us     Up    P      v/y0     P     mtrl.
+
+                      6.10   5.78   0.58   204   0.900    149     al
+                       -     5.73   0.58   203   0.898    149      -
+                       -     6.16   0.80   301   0.870    218      -
+                       -     6.07   0.81   301   0.866    218      -
+                       -     6.08   0.81   302   0.866    218      -
+                       -     6.05   0.82   301   0.865    220      -
+                       -     6.08   0.81   301   0.866    220      -
+                       -     6.49   1.12   441   0.828    320      -
+                       -     6.50   1.11   441   0.829   320       -
+                       -     6.46   1.12   441   0.827   320       -
+                       -     7.29   1.86   825   0.746   914     brass
+                       -     7.28   1.86   825   0.745   914       -
+                       -     7.32   1.85   828   0.747   914       -
+                       -     7.34   1.85   829   0.748   914       -
+                       -     8.20   2.59  1244   0.697  1378       -
+                       -     8.17   2.49  1241   0.695  1378       -
+
+#        Us = 5.108 + 1.210 up km/sec.        sigma us + 0.49 per cent
+
+
+#    comments:
+
+#    1) source: mcqueen, r.g. and marsh, s.p.
+#               j. appl. phys., vol. 31, p. 1253 (1960)
+#               los alamos scientific laboratory, gmx-6, los alamos, n. mex.
+#    2) experimental technique b
+#       data reduction technique b
+#       standard material is brass
+#    3) for the brass standard data see material 36-33
+#    4) v0i was taken from the a. i. p. handbook (mcgraw hill book co.)
+#       2nd ed.
+
+
+
+#    54---2                                                            page 1
+#    vanadium
+
+#    v
+
+
+
+#    vo  = 0.164   cc/g                           c0 = 5.14 km/sec
+#    voi = 0.16346 cc/g
+
+#    in the table below, velocities are given in km/sec, pressure in kilobars
+#    and density in g/cc.
+
+#                                     table
+
+#         ------------ sample ------------     -------- standard --------
+
+#         rho0    Us     Up     P     v/v0     material  rho0(st)  us(st)
+
+          6.08  11.33   4.92   3389.  0.566    iron       7.85     11.21
+           -     8.94   3.37   1832.  0.623    iron       7.85      8.83
+           -     7.53   2.12    970.  0.718    aluminum   2.71      9.17
+           -     6.42   1.08    422.  0.832    aluminum   2.71      7.34
+           -     5.86   0.46    164.  0.922    aluminum   2.71      6.21
+
+#       Us = 5.34 + 1.031*Up   for up below 3.14 km/sec
+#       Us = 3.74 + 1.541*Up   for up between 3.14 and 4.92 km/sec
+
+
+
+#    comments:
+
+#    1) source: altshuler, l. v., bakanova, a. a., dudoladov, i. p.
+#               zhurnal eksp. teoret. fiziki  v. 53, p. 1967 (1967).
+#    2) experimental technique a.
+#       data reduction technique b.
+#    3) only shock velocities were measured to determine the stress states.
+#       the uncertainty in the shock velocities was estimated to be
+#       1.0 percent.
+#    4) hugoniots of standard materials used were as follows
+#        aluminum  Us = 5.25 + 1.39*Up   for up between 0.0 and 6.0 km/sec
+#        iron      Us = 3.85 + 1.615*Up  for up between 1.0 and 4.6 km/sec
+#    5) the value of v0i was obtained from the following lattice constant
+#       of the cubic body-centered structure,
+#       a = 3.0240 angstroms  (25 deg. c)
+#       wyckoff, r. w. g., crystal structures (interscience publishers,
+#       new york, london, sidney, 1963) 2nd edition, vol. 1, p. 16.
+#    6) the authors obtained the value of co from handbook of rare metals,
+        (mir publishers, ussr, 1963) or from c. kittel, introduction to
+#       solid state physics (fizmatgiz, ussr, 1963).
+#    7) the discontinuity of the us vs. up plot at up = 3.14 km/sec is
+#       attributed to an electronic phase change.
+
+
+
+#    54---3
+#    vanadium
+
+#    v
+
+
+
+#    v0 = 0.1639 cc/g
+#    v0i = 0.1635 cc/g                                cb = 5.18 km/sec
+
+
+#    in the table below, velocities are given in km/sec, pressure in kilobars
+#    and density in g/cc.
+
+#                                     table
+
+#       ----------------sample-------------------       -----standard-----
+
+#        Rho0       Us       Up       P       V/Vo        material us(st)
+
+         6.100     5.71     0.56    195.     0.9019       2024 al   6.39
+         6.100     5.66     0.56    193.     0.9011       2024 al   6.39
+         6.100     6.08     0.78    289.     0.8717       2024 al   6.81
+         6.100     6.00     0.79    289.     0.8683       2024 al   6.81
+         6.100     6.00     0.79    289.     0.8683       2024 al   6.81
+         6.100     6.00     0.79    289.     0.8683       2024 al   6.81
+         6.100     5.98     0.79    288.     0.8679       2024 al   6.81
+         6.100     6.42     1.09    427.     0.8302       2024 al   7.35
+         6.100     6.41     1.09    426.     0.8300       2024 al   7.35
+         6.100     6.38     1.09    424.     0.8292       2024 al   7.35
+         6.100     7.25     1.80    796.     0.7517       brass     6.18
+         6.100     7.23     1.80    794.     0.7510       brass     6.18
+         6.100     7.20     1.80    791.     0.7500       brass     6.18
+         6.100     7.19     1.80    789.     0.7497       brass     6.18
+         6.100     8.07     2.43   1196.     0.6989       brass     7.01
+         6.100     8.10     2.52   1245.     0.6889       brass     7.12
+
+#    Us = 5.077 + 1.201*Up km/sec
+#    sigma Us =  0.042   km/sec
+
+
+
+#    comments:
+
+#    1) source: mcqueen, r.g., marsh, s.p., taylor, j.w., fritz, j.m.,
+#               and carter, w.j.
+#               the equation of state of solids from shock wave studies,
+#               high velocity impact phenomena, kinslow (ed.) (academic
+#               press, new york, 1970) chapter vii
+#    2)  experimental technique: b
+#        data reduction technique: b
+#    3)  v0i from wyckoff, crystal structures (john wiley and sons, n.y.,
+#       1963) vol. 1
+#    4)  v(dp/de) = 1.29

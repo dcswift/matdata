@@ -1,0 +1,292 @@
+#    26---0                                                            page 1
+#    tin summary
+
+#    sn        99.8 percent
+
+
+
+#    v0 = 0.1374 cc/g                                  c0 = 2.674 km/sec
+#    v0i= 0.1372 cc/g                                  cb = 2.76  km/sec
+
+#    the table below lists the hugoniot points calculated from the us vs up
+#    fits given. velocities are in km/sec, density in g/cc, pressure in kbar
+#    and energy difference in kbar.cc/g.
+
+#                                table
+
+#         fit rho0   us    up   p    v/v0     e-e0
+
+           1  7.28  3.44  0.6   150  0.826    1.80
+           1   -    4.08  1.0   297  0.755    5.00
+           1   -    4.87  1.5   532  0.692   11.25
+           1   -    5.67  2.0   825  0.647   20.0
+
+           2   -    6.27  2.4  1096  0.618   28.8
+           2   -    7.01  3.0  1530  0.572   45.0
+           2   -    7.61  3.5  1940  0.540   61.2
+           2   -    8.22  4.0  2395  0.514   80.0
+           2   -    8.83  4.5  2894  0.491  101.2
+           2   -    9.08  4.7  3106  0.482  110.5
+
+#        us = 2.49 + 1.59*up,  sig.us = 0.04 km/sec     (fit 1)
+#                            for up between 0.6 and 2.2 km/sec
+#        us = 3.35 + 1.219*up, sig.us = 0.05 km/sec     (fit 2)
+#                            for up between 2.2 and 4.7 km/sec
+
+
+
+#    comments:
+
+#    1) source: compiler.
+#    1a) the data of materials 26---1,2 and 3 were used for this summary.
+#        the data of 26---3 table ii and 26---4 agree with the other data
+#        but do not improve the accuracy.
+#    2) the crystal density was obtained from the am. inst. of phys. handbook
+#       (mcgraw-hill book co inc. 1963 ) 2nd. ed.
+#    3) c0 and cb are values used on pages 26---2 and 3.
+
+
+
+
+
+
+#    26---1                                                            page 1
+#    tin
+
+#    sn   99.8 per cent or greater
+
+
+
+#    v0 = 0.1374 cc/g.   cl = 3.32 km/sec.   c0 = 2.70 km/sec.
+#    v0i = 0.1370 cc/g.  cs = 1.67 km/sec.
+
+#    in the table below, velocities are given in mm/microsec.,
+#    pressure in kilobars, and density in g/cc.
+
+#                                      table
+
+#                      rho0   us     ufs    up      p     v/v0
+
+                       7.28  4.555  2.704  1.290  427.8  0.7168
+                        -    4.435  2.539  1.190  384.2  0.7317
+                        -    4.004  1.912  0.925  269.6  0.7690
+                        -    3.557  1.486  0.705  182.6  0.8018
+                        -    3.524  1.364  0.670  171.9  0.8098
+
+#              us = 2.378 + 1.712 up km/sec   sigma us = 0.9 percent
+
+
+
+#    comments:
+
+#    1) source: walsh, j. m., rice, m. h., mcqueen, r. g. and yarger, f. l.
+#               phys. rev., vol. 108, p. 169 ff. (1957)
+#               los alamos scientific laboratory, gmx-6, los alamos, n. mex.
+#    2) experimental technique b
+#       data reduction technique b
+#       standard material 24st aluminum
+#    3) the probable error per data point is 0.7 per cent in shock velocity
+#       for a given free-surface velocity and approximately 1 per cent in
+#       compression at a given pressure.
+#    4) impurities were measured by spectrochemical analysis
+#    5) cl and cs were obtained from l. bergman, de ultrschall,
+#       s. hirzel verlag, stuttgart, 1954, 6th ed., p. 650
+#    6) v0i was taken from the a. i. p. handbook (mcgraw hill book co.)
+#       2nd ed.
+
+
+
+
+
+
+#    26---2                                                            page 1
+#    tin
+
+#    sn
+
+
+
+#    v0 = 0.1374 cc/g
+#    v0i= 0.1372 cc/g                                 cb = 2.76 km/sec.
+
+#    in the table below, velocities are given in mm/microsec.,
+#    pressure in kilobars and density in g/cc.
+
+#                                      table
+
+#                     rho0    us     up      p     v/v0   pressure in
+#                                                         brass standard
+
+                      7.28   5.59   1.94    792   0.652    931
+                       -     5.55   1.95    788   0.648    931
+                       -     5.57   1.95    790   0.651    931
+                       -     6.71   2.80   1364   0.583   1586
+                       -     6.80   2.78   1377   0.591   1587
+                       -     6.75   2.81   1378   0.584   1599
+
+#        us = 2.64 + 1.476 up km/sec.        sigma us = 0.94 percent
+
+
+
+#    comments:
+
+#    1) source: mcqueen, r.g. and marsh, s.p.
+#               j. appl. phys., vol. 31, p. 1253 (1960)
+#               los alamos scientific laboratory, gmx-6, los alamos, n. mex.
+#    2) experimental technique b
+#       data reduction technique b
+#       standard material is brass
+#    3) for the brass standard data see material 36-33
+#    4) v0i was taken from the am. inst. of phys. handbook (mcgraw-hill book
+#       co., n.y., 1963) 2nd ed.
+
+
+
+
+
+
+#    26---3                                                            page 1
+#    tin
+
+#    sn
+
+
+
+#    v0 = 0.1374 cc/g.                       c0 = 2.674 km/sec
+#    v0i = 0.1372 cc/g.
+
+#    in the tables below, velocities are given in km/sec., pressure in
+#    kilobars and density in g/cc. st designates the standard material used
+#    as sample holder in table i and as striker or projectile plate in table
+#    ii. here u(st) is total velocity before impact.
+
+#                                    table i
+
+#           - - - - - - sample - - - - - - -      - - holder - - -
+
+#           rho0    us     up      p     v/v0    st   us(st)  up(st)
+
+            7.28   4.20   1.08    330   0.7407   fe    5.30   0.95
+             -     6.36   2.46   1139   0.6131   fe    7.53   2.24
+             -     9.02   4.65   3053   0.4845   fe   10.67*  4.26*
+
+#        us =
+
+
+
+#                                    table ii
+
+#              - - - - - - sample - - - - - -       striker
+
+#             rho0    us     up      p     v/v0    st   u(st)
+
+              7.28   5.99   2.15    938   0.6410   al   5.60
+               -     7.22   3.06   1608   0.5764   fe   5.60
+               -     9.50   4.97   3437   0.4769   fe   9.10
+               -    12.98   7.96   7520   0.3868   fe  14.68
+
+#           us = 2.730 + 1.524*up - 0.030*up**2.     sig.us = 0.14  km/sec.
+#        or us = 3.203 + 1.248*up                   sig.us = 0.21 km/sec.
+
+
+
+
+#    comments:
+
+#    1) source: al'tshuler, l.v., bakanova, a.a. and trunin, r.f.
+#               soviet phys.-jetp, vol. 15, p. 65 (1962).
+#               j. exptl. theoret. phys. (ussr)  vol. 42, p. 91, (1962)
+#    2) experimental technique a
+#       data reduction technique b
+#    3) table i is corrected data which first appeared in the soviet
+#       phys.-jetp, vol. 34, p. 614 (1958). the * values were obtained from
+#       the iron striker velocity of 8.64 km/sec.
+#    4) the inaccuracy in the determination of us in table ii to pressures of
+#       4187 kilobars did not exceed 1.0 percent. each point is the average
+#       of 4 to 6 experiments:
+#    5) the uncertainty of the measured values in the last table entry are:
+#       1 percent in us, obtained from 6-8 experiments and 1.5 percent in
+#       u(st) obtained from 12 experiments.
+#    6) v0i was calculated from the tetragonal unit cell constants
+#            a = 5.81970 kx and c = 3.17488 kx
+#       american institute of physics handbook (mcgraw-hill book co., n.y.,
+#       1963) 2nd ed.
+#    7) c0 is given by: k. h. schramm,  z. metalkunde  vol. 53, p. 729 (1962)
+
+
+
+
+
+
+#    26---4                                                            page 1
+#    tin
+
+#    sn
+
+
+
+#    v0 = 0.1368-0.1390 cc/g
+#    v0i = 0.1372 cc/g
+
+#    in the table below, velocities are given in km/sec., pressure in
+#    kilobars and density in g/cc.
+
+#                                    table
+
+#                 -------------sample-------------   --standard--
+
+#                 rho0    us    up     p      v/v0       ufs
+
+                  7.30  4.401  1.330  427    0.698      3.290
+                  7.30  4.425  1.291  417    0.708      3.220
+                  7.31  4.484  1.271  417    0.716      3.200
+                  7.31  4.500  1.270  418    0.718      3.200
+                  7.31  4.405  1.236  398    0.719      3.095
+                  7.31  4.359  1.251  399    0.713      3.110
+                  7.31  4.433  1.213  393    0.726      3.050
+                  7.31  4.488  1.195  392    0.734      3.025
+                  7.27  4.266  1.200  372    0.719      2.960
+                  7.27  4.181  1.204  366    0.712      2.940
+                  7.31  4.344  1.126  358    0.741      2.830
+                  7.31  4.359  1.144  365    0.738      2.880
+                  7.30  4.149  1.175  356    0.716      2.875
+                  7.30  4.132  1.182  357    0.713      2.890
+                  7.31  3.980  0.983  286    0.753      2.415
+                  7.31  4.042  0.990  292    0.755      2.440
+                  7.31  4.055  0.966  286    0.762      2.400
+                  7.31  4.032  0.953  281    0.764      2.360
+                  7.31  4.023  0.973  285    0.757      2.400
+                  7.31  4.010  0.973  286    0.758      2.400
+                  7.31  3.931  0.989  284    0.745      2.400
+                  7.31  3.873  0.983  278    0.750      2.400
+                  7.31  3.884  0.975  277    0.749      2.365
+                  7.31  3.796  0.971  269    0.744      2.335
+                  7.31  3.965  0.848  246    0.786      2.115
+                  7.31  3.971  0.862  250    0.782      2.145
+                  7.31  3.824  0.804  225    0.790      1.985
+                  7.31  3.779  0.819  226    0.783      2.000
+                  7.31  3.791  0.736  204    0.806      1.830
+                  7.31  3.837  0.739  207    0.807      1.840
+                  7.31  3.759  0.720  198    0.808      1.780
+                  7.31  3.791  0.722  200    0.810      1.795
+                  7.31  3.492  0.686  175    0.804      1.640
+                  7.31  3.484  0.686  175    0.803      1.640
+                  7.31  3.274  0.497  119    0.848      1.195
+                  7.31  3.222  0.499  117.5  0.845      1.190
+
+#                 us = 2.66 + 1.38*up  km/sec.
+#                 sig us = 0.11
+
+
+
+#    comments:
+
+#    1) source: berger j. and fauquignon c.
+#               private communication (1964), b.p. no. 7, sevran, france
+#    2) experimental technique b
+#       data reduction technique b
+#       standard material aluminum au4g alloy
+#    3) v0i was determined from the tetragonal unit cell constants
+#              a = 5.81970 kx and c = 3.17488 kx
+#       crystal data determinative tables (american crystallographic
+#       association, 1963) 2nd ed.

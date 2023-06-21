@@ -1,0 +1,121 @@
+#    93-1---1                                                          page 1
+#    periclase (magnesium oxide crystalline)
+#    mg-0
+#    v0 = 0.2793 cc/g                             c0 = 6.58 km/sec
+#    v0i= 0.2782 cc/g
+#    the table lists shock and particle velocity in km/sec., pressure in
+#    kbars and density in g/cc. st designates the standard sample holder
+#    material.
+#                                 table
+#              rho0     us    up      p    v/v0      us(st)
+               3.58    7.68  0.73    202   0.904     6.57
+               3.58    7.63  0.78    214   0.897     6.63
+               3.58    8.15  1.04    304   0.871     7.05
+               3.58    8.93  1.51    484   0.831     7.79
+               3.58    9.08  1.60    521   0.823     7.93
+               3.58    9.01  1.64    528   0.817     7.98
+               3.58    9.23  1.86    616   0.797     8.31
+               3.58    9.45  2.02    683   0.785     8.54
+               3.58    9.79  2.22    780   0.772     8.86
+               3.58    9.93  2.40    856   0.757     9.12
+               3.58   10.13  2.43    884   0.758     9.18
+               3.58   10.14  2.49    904   0.754     9.26
+               3.58   10.11  2.52    913   0.751     9.29
+               3.58   10.21  2.59    950   0.744     9.40
+               3.58   10.33  2.64    980   0.743     9.49
+               3.58   10.59  2.90   1102   0.725     9.86
+               3.58   10.67  2.97   1137   0.720     9.96
+               3.58   10.92  3.18   1244   0.708    10.25
+               3.58   10.96  3.20   1258   0.708    10.29
+#              us = 6.535 + 1.643*up - 0.083*up**2  km/sec.
+#              sigma us = 0.067 km/sec.
+#    comments :
+#    1) source: mcqueen r.g. and marsh s.p.
+#               private communication
+#               los alamos scientific laboratory, los alamos, new mexico, usa
+#    2) experimental technique b
+#       data reduction method b  standard material 2024 aluminum
+#    3) voi was obtained from the lattice parameters listed by wyckoff,
+#       crystal structures vol. 1 (john wiley and sons, new-york 1963)
+#    4) further work is in progress.
+
+
+
+#    93-1---2                                                          page 1
+#    periclase ceramic (magnesiumoxide)
+#    mg-o
+#    v0 = 0.2920 g/cc
+#    v0i= 0.2789 g/cc
+#    the table lists density in g/cc, velocities in km/sec and pressure in
+#    kbars.
+#                                 table
+#                   rho0    us     up     p     v/v0
+                   3.425   7.63  1.32    345   0.827
+                   3.425   9.31  2.52    803   0.729
+                   3.425  13.42  5.62   2581   0.581
+#                   us = 5.89 + 1.34 up  km/sec
+#                   sigma us = 0.051  km/sec
+#    comments:
+#    1) source: al'tshuler, l. v., trunin, r. f., simakov, g. v.
+#               izv. akademii nauk sssr. fizika zemli no. 10, 1965 p.1-6.
+#    2) experimental technique - unknown.
+#       data reduction technique - unknown.
+#    3) voi was obtained from a cubic lattice constant a=4.2112 angstrom:
+#       wyckoff, crystal structures vol. 1 (john wiley and sons, n. y. 1963)
+#    4) isotherms at 0 deg. k  and at 4000 deg. k. were obtained using a
+#       gruneisen gamma of 1.0 and hugoniot densities listed in the table
+#       below.
+
+#                 p     rho(hug)   rho(0 deg. k)   rho(4000 deg. k)
+
+#                 00     3.62          3.62             3.455
+#                 20     3.95          3.968            3.806
+#                 40     4.245         4.257            4.11
+#                 60     4.492         4.517            4.37
+#                 80     4.721         4.762            4.615
+#                100     4.93          4.976            4.84
+#                120     5.105         5.17             5.05
+#                140     5.27          5.34             5.23
+#                160     5.41          5.508            5.40
+#                180     5.535         5.658            5.555
+#                200     5.658         5.805            5.71
+#                220     5.765         5.95             5.853
+#                240     5.881         6.092            5.994
+#                260     5.998         6.23             6.13
+
+
+
+#    93-1---3                                                          page 1
+#    magnesium oxide, single-crystal   (magnorite)
+#    mg-o
+#    v0 = 0.2796 cc/g
+#    v0i = 0.2789 cc/g
+#    in the table below, density is given in g/cc, velocities in km/sec,
+#    and pressure in kilobars.
+#                                   table
+#     rho0i    us1   up1    p1    v1/v0  us2     up2   ufs     p2   v2/v0
+     3.576  9.191  0.1215  39.9  0.987  7.016  0.626  1.348   168  0.9147
+      -     9.142  0.1054  34.5  0.989  6.964  0.635  1.217   166  0.9122
+      -    10.068  0.2476  89.0  0.976  8.593  1.35   2.459   423  0.8466
+      -                                 6.893  0.633  1.256   166  0.9104
+      -                                 7.085  0.632  1.195   166  0.9133
+      -                                 7.881  1.229  2.678   390  0.879
+      -                                 9.61   1.92   3.733   660  0.801
+#      us2 = 6.15 + 1.85*up2 +or- 0.3 km/sec
+#    comments:
+#    1) source: ahrens, t. j.
+#               journal of applied physics, vol. 37, p. 2532 (1966).
+#    2) experimental technique c1
+#       data reduction method a, where 2up = ufs
+#       interaction of the elastic wave with the second shock was corrected.
+#       for
+#    3) the table below gives the calculated hugoniot temperature (t) in
+#       deg. kelvin and hugoniot pressure (p) in kilobars.
+#     t = 307,  323,  345,  375,  419,  485,  584,  733,   959,  1313
+#     p = 42.9, 96.1, 163,  247,  354,  493,  674,  913,  1248,  1710
+#    4) v0i was obtained from a cubic lattice constant a = 4.2112 angstrom:
+#       wyckoff, crystal structures vol. i (john wiley and sons, n. y. 1963).
+#    5) the magnorite single-crystals were  obtained from norton co., niagara
+#       falls, n. y., u.s.a.
+#    6) the accuracy of the shock and particle velocity mearsurements are
+#       within 1 percent.

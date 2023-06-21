@@ -1,0 +1,546 @@
+#22---0 page 1
+#bismuth, summary
+#
+#bi
+#
+#
+#
+#v0 = 0.1016-0.1021 cc/g cl = 2.18 km/sec c0 = 1.771 km/sec
+#v0i= 0.10197 cc/g cs = 1.10 km/sec cb = 1.86 km/sec
+#
+#the table lists points calculated from the us vs. up fits given below.
+#density is in g/cc, velocities in km/sec, pressure in kbar and e-e0 is
+#internal energy change in kbar cc/g. tp = transition point.
+#
+#table i
+#
+#rho0 us up p v/v0 e-e0 comments
+9.807 2.30 0.009 2.0 0.9962 0.00040 1st wave
+
+9.807 1.79 0.009 2.0 0.9962 0.00040 2nd -
+9.807 1.86 .040 7.6 0.9795 0.00520 - -
+9.807 1.95 .080 15.5 0.9597 0.0256 - -
+9.807 2.05 0.126 25.5 0.9391 0.0688 - - tp
+
+9.807 1.755 0.30 55.0 0.8388 0.220 3rd -
+9.807 2.183 0.50 107. 0.771 1.205 2nd -
+9.807 2.718 0.75 200. 0.724 2.81 1st -
+9.807 3.253 1.00 319. 0.693 5.00 - -
+
+9.807 3.66 1.2 431. 0.672 7.20 - -
+9.807 4.73 2.0 928. 0.577 20.0 - -
+9.807 6.07 3.0 1787 0.506 45.0 - -
+9.807 7.41 4.0 2908 0.460 80.0 - -
+9.807 8.08 4.5 3567 0.443 101.2 - -
+#
+#us = 1.771 + 2.21*up +or- 0.02 km/sec fit 1
+#for up between .009 and .126 km/sec.
+#us = 1.113 + 2.14*up, sig.us = .03 km/sec fit 2
+#for up between .3 and 1.1 km/sec.
+#us = 2.05 + 1.341*up, sig.us = 0.07 km/sec fit 3
+#- for up between 1.1 and 4.5 km/sec.
+#
+#
+#table ii lists corrected data for the transition wave of 22---6.
+#p in kbars, and v/v0 are calculated assuming a 2 kbar elastic wave
+#with particle velocity = 0.009 km/sec.
+#
+#
+#
+
+
+#table ii
+#
+#rho0 t0 t us up p v/v0
+9.804 19 40 2.050 0.126 25.5 0.9391
+9.813 -48 -29 2.088 0.143 29.4 0.9528
+9.804 62 85 2.033 0.118 23.7 0.9425
+9.813 208 233 1.990 0.086 17.0 0.9584
+#
+#us =
+#
+#
+#
+#comments:
+#
+#1) source: compiler
+#2) the data of 22---1,2,3,4,6,7 were used in this summary.
+#3) the first wave pressure of cast bismuth from 22---7 is given here.
+#the maximum pressure of this ramp-shaped precursor was used with its
+#average velocity to calculate v/v0 and up for the first wave using
+#a single step approximation.
+#this summary should not be expected to yield an accurate description
+#of this highly anisotropic material near the 2 kbar region.
+#4) fit 1: the transition pressure of 22---7 was combined with the us
+#value of 22---6 to give a straight us-up line to the intercept c0,0.
+#5) the adoption of the 22---7 phase point corrects the up1 values
+#of 22---6 by 6.6 percent to those of table ii.
+#6) the second shock parameters of 22---6 have not been used in the 2nd
+#fit.
+#7) a number of gruneisen gammas have been estimated for this- and other
+#v,v1 elements: d.b. sirdeshmukh and b. kamaswara rao
+#j. appl. phys., v. 44, p. 894 (1973)
+#
+#
+#
+#
+
+
+#22---1 page 1
+#bismuth
+#
+#bi 99.8 per cent or greater
+#
+#
+#
+#v0 = 0.1021 cc/g cl = 2.18 km/sec. c0 = 1.77 km/sec.
+#v0i = 0.1014 cc/g cs = 1.10 km/sec.
+#
+#in the table below, velocities are given in mm/microsec.
+#pressure in kilobars and density in g/cc.
+#
+#table
+#
+#rho0 us ufs up p v/v0
+#
+9.79 2.696 1.401 0.718 189.5 0.7337
+9.79 2.585 1.318 0.676 171.1 0.7385
+9.79 3.075 1.793 0.914 275.2 0.7028
+9.79 3.084 1.800 0.922 278.4 0.7010
+9.79 3.682 2.476 1.212 436.9 0.6708
+9.79 3.659 2.564 1.222 437.7 0.6660
+#
+#us = 1.259 + 1.982 up km/sec sigma us = 0.6 percent
+#
+#
+#
+#comments:
+#
+#1) source: walsh, j.m., rice, m.h., mcqueen, r.g. and yarger, f.l.
+#phys. rev., vol. 108, p. 169 ff. (1957)
+#los alamos scientific laboratory, gmx-6, los alamos, n. mex.
+#2) experimental technique b
+#data reduction technique b
+#standard material 24st aluminum
+#3) impurities were measured by spectrochemical analysis
+#4) cl and cs values were obtained from l. bergman, der ultraschall,
+#s. hirzel verlag, stuttgart, 1954, 6th ed., p. 650
+#5) the probable error per data point is 0.7 per cent in shock velocity
+#for a given free-surface velocity and approximately 1 per cent in
+#compression at a given pressure.
+#
+#
+#
+#
+
+
+#22---2 page 1
+#bismuth
+#
+#bi
+#
+#
+#
+#v0 = 0.1015 cc/g. c0 = 1.771 km/sec.
+#v0i = 0.1020 cc/g.
+#
+#in the table below, velocities are given in mm/microsec.,
+#pressures in kilobars and density in g/cc.
+#
+#table
+#
+#rho0 us up p v/v0 pressure in
+#brass standard
+#
+9.85 3.67 1.23 444 0.665 339
+9.85 3.64 1.23 443 0.661 339
+9.85 4.44 1.80 786 0.596 882
+9.85 4.42 1.79 781 0.594 867
+9.85 4.46 1.79 787 0.599 869
+9.85 4.75 1.97 923 0.585 1008
+9.85 4.66 2.06 945 0.558 1050
+9.85 4.73 2.00 931 0.577 1020
+9.85 5.33 2.47 1299 0.536 1410
+9.85 5.36 2.47 1303 0.540 1410
+9.85 5.51 2.51 1360 0.545 1453
+9.85 5.49 2.48 1344 0.548 1436
+9.85 5.49 2.47 1335 0.551 1423
+#
+#us = 1.88 + 1.42 up km/sec. sig.us = 0.07 km/sec.
+#
+#
+#
+#comments:
+#
+#1) source: mcqueen, r.g. and marsh, s.p.
+#j. appl. phys., vol. 31, p. 1253 (1960)
+#los alamos scientific laboratory, gmx-6, los alamos, n. mex.
+#2) experimental technique b
+#data reduction technique b
+#standard material is brass
+#3) for the brass standard data see material 36--33---2
+#4) c0 is obtained from dr. ludwig bergmann, der ultraschall,2n ed.,
+#(s. hirzel verlag stuttgart, germany, 1954)
+#
+#
+#
+#
+
+
+#22---3 page 1
+#bismuth
+#
+#bi
+#
+#
+#
+#v0 0.102 cc/g
+#voi = 0.1020 cc/g
+#
+#in the table below, density is given in g/cc, velocities in km/sec
+#and pressure in kilobars.
+#
+#table
+#
+#sample base plate
+#
+#rho0 us ufs up p v/v0 material pressure
+9.772 3.69 2.50 1.19 428 0.678 al 324
+9.775 2.56 1.29 0.69 173 0.730 al 146
+9.781 2.54 1.34 0.69 173 0.727 al 146
+9.79 4.60 4.07 1.90 855 0.587 al 618
+9.77 2.08 0.89 0.46 94 0.778 brass 133
+9.767 1.82 0.72 0.32 74 0.870 brass 95
+#
+#us = 1.58 + 1.61 up km/sec
+#sigma us = 0.246 km/sec
+#
+#
+#
+#comments:
+#
+#1) source: compiler
+#l.r.l. equation of state file
+#lawrence radiation laboratory, livermore, california.
+#2) experimental technique b. standard materials: 2024 al alloy
+#astm b16 brass
+#data reduction technique b.
+#3) the value of voi was obtained from a. taylor and brenda j. kagle,
+#crystallographic data on metal and alloy structures
+#(dover publications, inc., new york, n. y., 1963).
+#
+#
+#
+#
+
+
+#22---4 page 1
+#bismuth
+#
+#bi
+#
+#
+#
+#v0 = 0.1020 g/cc.
+#v0i =0.1020 g/cc. cb = 1.86 km/sec.
+#
+#in the table below, velocities are given in km/sec.,
+#pressure in kilobars and density in g/cc.
+#
+#table
+#
+#rho0 us up p v/v0
+9.80 3.37 1.05 350 0.690
+9.80 5.36 2.47 1300 0.538
+9.80 7.94 4.45 3450 0.439
+#
+#us = 2.00 + 1.34up km/sec.
+#
+#
+#
+#comments:
+#
+#1) source: al'tshuler, l. v., krupnikov, k. k. and brazhnik, m. i.
+#soviet phys.-jetp, vol. 34, p. 614 (1958)
+#2) experimental technique a
+#data reduction technique b
+#standard material fe
+#3) cb is calculated using the volume compression coefficient taken from
+#p. w. bridgman, the physics of high pressure (g. bell and sons ltd.
+#london 1958)
+#4) v0i was obtained from the handbook of chemistry and physics (the
+#chemical rubber publishing co. 1962-1963) 44th ed.
+#5) the specimen with a thickness between 6-8mm. was attached to a iron
+#plate of comparable thickness 6-9mm.
+#
+#
+#
+#
+
+
+#22---5 page 1
+#bismuth
+#
+#bi
+#
+#
+#
+#v0 = 0.1016-0.1020 g/cc
+#v0i = 0.1014 g/cc
+#
+#in the table below, velocities are given in km/sec., pressure in
+#kilobars and density in g/cc.
+#
+#table
+#
+#-------------sample------------- -standard-
+#rho0 us up p v/v0 ufs
+9.80 3.511 1.139 392 0.676 2.980
+9.80 3.521 1.130 390 0.679 2.970
+9.84 3.558 1.105 387 0.689 2.920
+9.84 3.568 1.105 388 0.690 2.920
+9.84 3.411 1.044 350.5 0.694 2.720
+9.84 3.376 1.096 364 0.675 2.820
+9.82 3.451 1.045 354 0.697 2.730
+9.82 3.425 1.048 352.5 0.694 2.730
+9.84 3.385 1.025 339 0.697 2.260
+9.84 3.376 1.030 342 0.695 2.270
+9.82 3.259 1.044 334 0.680 2.660
+9.82 3.268 0.989 317.5 0.697 2.540
+9.83 3.305 0.957 311 0.710 2.490
+9.83 3.222 0.998 316 0.690 2.550
+9.82 3.221 0.980 310 0.695 2.505
+9.82 3.276 0.970 312 0.704 2.500
+9.82 3.119 0.997 306.5 0.680 2.510
+9.82 3.149 0.999 309 0.682 2.520
+9.83 3.180 0.968 302.5 0.696 2.460
+9.83 3.213 0.987 303 0.699 2.480
+9.82 3.033 0.866 258 0.714 2.185
+9.82 3.033 0.873 260 0.712 2.200
+9.82 2.919 0.830 238 0.716 2.070
+9.82 2.957 0.836 242.5 0.717 2.095
+9.83 2.763 0.696 189 0.748 1.715
+9.83 2.663 0.703 184 0.736 1.710
+9.84 2.392 0.588 138.5 0.754 1.385
+9.84 2.438 0.582 139.5 0.761 1.375
+9.82 2.224 0.615 135 0.723 1.390
+9.82 2.265 0.600 134 0.735 1.370
+9.83 2.303 0.537 121.5 0.767 1.245
+9.83 2.283 0.530 119 0.768 1.225
+9.81 2.271 0.532 118.5 0.766 1.220
+9.81 2.271 0.530 118 0.767 1.215
+9.82 2.170 0.554 118 0.745 1.245
+9.82 2.185 0.556 119 0.746 1.250
+9.83 2.104 0.455 94 0.784 1.015
+9.83 2.102 0.463 95.5 0.780 1.030
+9.83 2.091 0.465 95.5 0.778 1.027
+9.83 2.088 0.463 95 0.778 1.025
+9.83 1.938 0.430 82 0.778 0.925
+9.83 1.925 0.423 80 0.780 0.900
+#
+#us = 1.050 + 2.224 up km/sec.
+#
+#
+#
+#comments:
+#
+#1) source: berger j. and fauquignon c.
+#private communication (1964), b.p. no. 7, sevran, france
+#2) experimental technique b
+#data reduction b
+#standard material au4g
+#3) sample dimensions were: 2.0 cm diameter
+#0.5 cm thickness
+#4) v0i was calculated from the constants, a = 4.53674 and c = 11.83834
+#angstroms, of the hexagonal unit cell.
+#american inst. of phys. handbook (mcgraw-hill book co. 1963) 2nd ed.
+#
+#
+#
+#
+
+
+#22---6 page 1
+#bismuth
+#
+#bi
+#
+#
+#
+#v0 = 0.1020-0.1021 cc/g cl = 2.15 km/sec.
+#v0i = 0.1020 cc/g
+#
+#in the table below, velocities are given in km/sec., pressures in
+#kilobars, density in g/cc and temperature in degrees centigrade.
+#the numbers 1 and 2 designate the first and second shock waves.
+#
+#table
+#
+#rho0 t0 t1 us1 up1 p1 v1/v0 us2 up2 p2 v2/v0
+9.794 19 42 2.043 0.136 27.2 0.9328 1.308 0.239 39.9 0.8508
+9.804 19 42 2.041 0.135 27.0 0.9346 1.262 0.217 36.7 0.8666
+9.804 19 42 2.048 0.134 26.9 0.9349 1.232 0.199 34.5 0.8787
+9.804 19 42 2.063 0.136 27.5 0.9344 1.203 0.183 42.8 0.8933
+9.813 -48 -27 2.088 0.153 31.3 0.9246
+9.804 62 87 2.033 0.127 25.3 0.9388
+9.813 208 236 1.990 0.092 17.6 0.9617
+#
+#us =
+#
+#
+#
+#comments:
+#
+#1) source: duff, r. e. and minshall, f. s.
+#phys. rev., vol. 108, p. 1207 (1957)
+#2) experimental technique a
+#data reduction technique d, the assumption 2up = ufs was used.
+#3) v0i was obtained from the crystal data determinative tables, american
+#crystallographic association, 2ed. (1963)
+#
+#
+#
+#
+
+
+#22---7 page1
+#bismuth
+#
+#bi
+#
+#
+#
+#voi = 0.101968 cc/g
+#
+#cast
+#vo = 0.1020 cc/g
+#
+#pressed
+#vo = 0.1025 cc/g cl = 2.27 km/sec co = 1.86 km/sec
+#cs = 1.13 km/sec
+#
+#single crystal a axis
+#v0 = 0.1020 cc/g cl = 2.54 km/sec
+#
+#
+#
+#single crystal c axis
+#v0 = 0.1020 cc/g cl = 1.98 km/sec
+#cs = 1.02 km/sec
+#
+#in the tables below, velocities are given in km/sec, pressure in
+#kilobars and density in g/cc.
+#
+#table i
+#(cast bismuth)
+#
+#rho0 us1 up1 p1 v1/v0 us2 up2 p2 v2/v0
+9.804 2.30 0.0089 2.0 0.9961 2.06 0.126 25.5 0.939
+9.804 - 0.0093 2.1 0.9960 2.06 0.130 26.5 0.937
+9.804 - 0.0075 1.7 0.9967 2.06 0.126 25.6 0.939
+9.804 - 0.0098 2.2 0.9958 2.06 0.122 24.6 0.941
+#
+#us =
+#
+#
+#
+#table ii
+#(pressed bismuth)
+#
+#rho0 us1 up1 p1 v1/v0 us2 up2 p2 v2/v0
+9.756 2.16 0.0119 2.5 0.9945 2.06 0.126 25.4 0.939
+- - 0.0114 2.4 0.9947 2.06 0.124 25.1 0.940
+- - 0.0100 2.1 0.9954 2.06 0.131 26.5 0.937
+#
+#us =
+#
+#
+#
+#
+#
+#table iii
+#(single crystal bismuth a-axis)
+#
+#rho0 us1 up1 p1 v1/v0 us2 up2 p2 v2/v0
+9.804 2.54 0.0104 2.6 0.9959 2.06 0.119 24.6 0.943
+#
+#us =
+#
+#
+#table iv
+#(single crystal bismuth c-axis)
+#
+#rho0 us1 up1 p1 v1/v0 us2 up2 p2 v2/v0
+9.804 2.06 0.127 25.6 0.938
+- 1.97 0.0161 3.1 0.9918 1.83 0.067 12.2 0.964
+#
+#us =
+#
+#
+#
+#comments:
+#
+#1) source: larson, d. b.
+#j. appl. phys. (1967), in print
+#ucrl-14853
+#university of california, lawrence radiation laboratory,
+#livermore, california. 94550
+#2) experimental technique i
+#data reduction technique c.
+#3) the transition reported in this paper is undoubtedly the bi i to
+#bi ii transformation observed statically by b. w. bridgman. phys.
+#rev. vol. 48, p.896 (1935) and dynamically by r. e. duff and
+#f. s. minshall, phys. rev. vol. 108, p.1207 (1957).
+#4) the value of voi was obtained from the following lattice constants
+#of a hexagonal unit cell containing six atoms
+#a = 4.54590 angstroms, c = 11.86225 angstroms (25 deg. c.)
+#wyckoff, r. w. g., crystal structures (interscience publishers,
+#new york, london, sydney, 1963) 2nd edition, vol. 1, p. 32.
+#5) the value of us1 is the average velocity of a pressure ramp with
+#leading edge traveling at 2.54 km/sec for cast bismuth and
+#2.27 km/sec for pressed bismuth. the single crystal samples have
+#well-defined elastic shock waves.
+#
+#
+#
+#
+
+
+#22---8 page 1
+#bismuth cast
+#
+#bi
+#
+#
+#
+#v0 = 0.1020 cc/g
+#v0i = 0.1020 cc/g
+#
+#in the table below, velocities are in km/sec., pressure in kilobars and
+#density in g/cc.
+#
+#table
+#
+#rho0 us1 up1 p1 v1/v0 us2 up2 p2 v2/v0
+#
+9.806 2.051 0.133 26.7 0.9351 1.540 0.262 45.7 0.8494
+9.806 2.056 0.116 23.4 0.9436 1.470 0.235 40.1 0.8607
+9.806 2.056 0.113 22.7 0.9450 1.512 0.239 41.0 0.8599
+9.806 2.052 0.148 29.8 0.9279 1.535 0.236 42.7 0.8690
+#
+#us =
+#
+#
+#
+#
+#
+#comments
+#
+#1) source: hughes d. s., gourley l. e. and gourley m. f.
+#j. appl. phys., vol. 32, p. 624 (1961)
+#2) experimental technique: a and g
+#data reduction method: d1
+#3) v0i was obtained from wyckoff, r. w. g., crystal structures (inter-
+#science publ., new-york, 1963) 2nd. edition, vol. 1, p. 32.
+#4) the elastic wave observed in ---7 was neglected in calculating the
+#above points.

@@ -1,0 +1,199 @@
+#    25---1                                                            page 1
+#    germanium
+#    ge
+
+#    v0  = 0.1885 cc/g                       c0 = 3.77 km/sec
+#    v0i = 0.1878 cc/g                       cb = 3.82 km/sec
+
+#    in the table below, density is given in g/cc, velocities in km/sec,
+#    and pressure in kilobars.
+
+#        ------------------ sample ----------------       base plate
+#        rho0     us     ufs    up       p     v/v0        pressure
+
+         5.324   3.81   1.32   0.73     148   0.808          139
+         5.317   4.43   2.93   1.63     384   0.632          363
+         5.239   4.38   2.84   1.56     358   0.645          341
+         5.308   3.87   1.75   0.97     199   0.749          192
+         5.327   4.71   3.25   1.72     430   0.635          398
+         5.312   5.82   4.54   2.34     723   0.598          632
+         5.317   6.28   5.12   2.62     875   0.583          756
+
+#    us = 1.52 + 1.83 up  km/sec     (for up from 1.56 to 2.62 km/sec)
+#    sigma us = 0.053  km/sec
+
+#    comments:
+#    1) source: compiler
+#               l.r.l.  equation of state file
+#               lawrence radiation laboratory, livermore, california.
+#    2) experimental technique b.    (aluminum standard base plate).
+#       data reduction technique b.
+#    3) the value of voi was obtained from  a. taylor and brenda j. kagle,
+#       christallographic data on metal and alloy structures
+#       (dover publications, inc.,  new york, n. y.,  1963).
+#    4) the value of c0 was calculated from data listed by  w. l. bond et al.
+#       elastic constants of germanium single crystals  phys. rev. letters
+#       vol. 78  p. 176  (1950).
+#       the following constants were listed:
+#       c11 = 1.298  megabars
+#       c12 = 0.488     -
+#       c44 = 0.673     -
+#    5) a dynamic yield point at  p = 46 kbar,  v/v0 = 0.975  and a dynamic
+#       transition point at  p = 140 kbar,  v/v0 = 0.875  has been observed
+#       by r. a. graham et al., sandia corporation, albuquerque, new mexico
+#       (preprint).
+#       previous work suggests that the upper transition is due to melting:
+#       to 180,000 atmospheres,  j. phys. chem.  vol. 59  p. 1144  (1955)
+#       or a solid-solid transition near the melting point reported by
+#       s. minomura and h. g. drickamer,  pressure induced phase transition
+#       in silicon, germanium and some iii-v compounds,  j. phys. chem.
+#       solids, vol. 23  p. 451  (1962), is not clear.
+#    6) the extrapolated v/v0 of the table suggests that the volume change
+#       accompanying the upper transition or transitions is over 10 percent.
+
+
+#    25---2                                                            page 1
+#    germanium, single crystal.
+#    ge
+
+#    v0 = 0.1869 cc/g
+#    v0i = 0.1878 cc/g
+
+#    in table i below, density is given in g/cc, velocities in km/sec, and
+#    (*) indicates assumed values. in table ii, pressures are given in
+#    kilobars.
+
+#    table i:  rho0   us1     up1      us2    up2      us3    up3
+
+               5.35   5.63   0.0775
+               5.35   5.78   0.1286
+               5.35   5.71   0.1443*  3.43   0.1580
+               5.35   5.79   0.1443*  3.41   0.1620
+               5.35   5.75   0.1443*  3.58   0.1700
+               5.35   5.75   0.1443*  3.54   0.2132
+               5.35   5.78   0.1443*  3.63   0.3432
+               5.35   5.79   0.1443*  4.13   0.5540
+               5.35   5.79   0.1443*  4.26   0.5778*  1.17   0.6015
+
+#       us = 3.16 + 1.79*up +or- 0.09 km/sec
+
+# table ii:       p1     v1/v0    p2     v2/v0     p3   v3/v0
+
+                 23.3   0.9864
+                 39.8   0.9778
+                 44     0.9750   46.5   0.9705
+                 44     0.9751   49.0   0.9697
+                 44     0.9749   50.3   0.9675
+                 44     0.9749   58.3   0.9551
+                 44     0.9750   83.5   0.9193
+                 44     0.9751  136.    0.8748
+                 44     0.9751  140. *  0.8724   142   0.8413
+
+#    comments:
+#    1) source: graham, r. a., jones, o. e. and holland, j. r.
+#               journal of physics and chemistry of solids, vol. 27, p 1519
+#               (1966).
+#    2) experimental technique a: shock velocity was determined from the
+#                                 dependence of conductivity on time during
+#                                 shock transit. projectile velocity was
+#                                 determined with shear pins.
+#       data reduction technique a
+#       standard material germanium, assuming ufs = 2up.
+#    3) the germanium crystals were high purity, n-type.
+#    4) the crystals were oriented with their faces parallel to a (111)
+#       crystal plane.
+#    5) the germanium projectiles were accelerated by means of a compressed
+#       gas gun. the angular misalignment between the impacting surfaces is
+#       approximately 0.0005 radians.
+#    6) for particle velocity (up) less than 0.1286 km/sec a single wave is
+#       observed and at up = 0.1580 km/sec two waves are observed. when
+#       up = 0.6015 km/sec a third wave appears. the assumed values of (up)
+#       for the first and second waves are 0.1443 and 0.5778 km/sec
+#       respectively. the transition pressures 44 and 140 kilobars are
+#       probably accurate to +or- 10 percent.
+#    7) v0i was obtained from a. taylor and brenda j. kagle,
+#       christallographic data on metal and alloy structures (dover
+#       publications, inc., new york, n. y., 1963).
+
+
+#    25---3
+#    germanium
+#    ge
+
+#    v0 = 0.1876 cc/g                                      c0 = 3.754 km/sec
+#    v0i = 0.1879 cc/g
+
+#    in the table below, velocities are given in km/sec, pressure in kilobars
+#    and density in g/cc.
+
+#       ----------------sample-------------------       -----standard-----
+
+#        rho0       us       up       p       v/v0        material us(st)
+
+         5.330     4.25     0.60    136.     0.8588       2024 al   6.24
+         5.330     4.22     0.75    169.     0.8223       2024 al   6.45
+         5.311     4.25     0.75    169.     0.8235       2024 al   6.46
+         5.311     4.14     0.79    174.     0.8092       2024 al   6.49
+         5.330     4.19     1.05    234.     0.7494       2024 al   6.84
+         5.330     4.16     1.07    237.     0.7428       2024 al   6.86
+         5.330     4.09     1.07    233.     0.7384       2024 al   6.86
+         5.311     4.12     1.09    239.     0.7354       2024 al   6.87
+         5.330     4.17     1.23    273.     0.7050       2024 al   7.06
+         5.311     4.18     1.46    324.     0.6507       2024 al   7.36
+         5.311     4.30     1.47    336.     0.6581       2024 al   7.38
+         5.311     4.18     1.50    333.     0.6411       2024 al   7.40
+         5.330     4.57     1.59    387.     0.6521       2024 al   7.60
+         5.330     4.55     1.60    388.     0.6484       2024 al   7.60
+         5.330     4.49     1.61    385.     0.6414       2024 al   7.61
+         5.330     4.82     1.75    450.     0.6369       2024 al   7.85
+         5.330     4.91     1.79    468.     0.6354       2024 al   7.92
+         5.330     5.22     1.95    543.     0.6264       2024 al   8.17
+         5.330     5.22     1.96    545.     0.6245       2024 al   8.19
+         5.330     5.14     1.97    540.     0.6167       2024 al   8.19
+         5.330     5.45     2.09    607.     0.6165       2024 al   8.41
+         5.330     5.38     2.11    605.     0.6078       2024 al   8.41
+         5.330     5.77     2.15    661.     0.6274       2024 al   8.55
+         5.330     5.68     2.16    654.     0.6197       2024 al   8.55
+         5.330     5.72     2.16    659.     0.6224       2024 al   8.55
+         5.330     5.73     2.19    669.     0.6178       2024 al   8.59
+         5.330     5.72     2.24    683.     0.6084       2024 al   8.66
+         5.330     5.50     2.25    660.     0.5909       2024 al   8.61
+         5.330     5.39     2.27    652.     0.5788       2024 al   8.61
+         5.330     5.65     2.27    684.     0.5982       2024 al   8.68
+         5.330     6.07     2.40    776.     0.6046       2024 al   8.93
+         5.330     6.12     2.41    786.     0.6062       2024 al   8.96
+         5.330     5.97     2.64    840.     0.5578       2024 al   8.99
+         5.330     5.91     2.47    778.     0.5821       2024 al   8.99
+         5.330     6.16     2.48    814.     0.5974       2024 al   9.05
+         5.330     6.06     2.56    827.     0.5776       2024 al   9.13
+         5.330     6.20     2.56    846.     0.5871       2024 al   9.17
+         5.330     6.19     2.57    848.     0.5848       2024 al   9.17
+         5.330     6.10     2.58    839.     0.5770       2024 al   9.16
+         5.330     6.37     2.60    883.     0.5918       2024 al   9.25
+         5.330     6.39     2.61    889.     0.5915       2024 al   9.27
+         5.330     6.36     2.66    902.     0.5818       2024 al   9.32
+         5.330     6.32     2.17    731.     0.6566       2024 al   9.37
+         5.330     6.52     2.74    952.     0.5798       2024 al   9.46
+         5.330     6.56     2.94   1028.     0.5518       2024 al   9.72
+         5.330     6.92     3.01   1110.     0.5650       2024 al   9.89
+         5.330     6.96     3.04   1128.     0.5632       2024 al   9.94
+         5.330     6.71     3.12   1116.     0.5350       2024 al   9.98
+         5.330     6.91     3.19   1175.     0.5384       2024 al  10.11
+
+#    us = 0.264 + 3.27*up - 0.371*up**2  km/sec  for up above 1.5 km/sec
+#    sig us = 0.19 km/sec
+
+#    comments:
+#    1) source: mcqueen, r.g., marsh, s.p., taylor, j.w., fritz, j.m.,
+#               and carter, w.j.
+#               the equation of state of solids from shock wave studies,
+#               high velocity impact phenomena, kinslow (ed.) (academic
+#               press, new york, 1970) chapter vii
+#    2)  experimental technique: b
+#        data reduction technique: b
+#    3)  v0i from wyckoff, crystal structures (john wiley, n.y., 1963) vol 1.
+#    4)  c0 was calculated from c11 = 12.8528e+11     dynes/cm**2
+#                               c12 = 4.82595e+11     dynes/cm**2
+#                               c44 = 6.680e+11       dynes/cm**2
+#        mc skimin and andreatch, j. apl. phys. v. 34, p. 651, 01963).
+#    5) hugoniot elastic limit 52., 40., 37. kbar (100, 114, 111 directions)

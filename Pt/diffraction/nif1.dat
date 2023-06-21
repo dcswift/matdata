@@ -1,0 +1,16 @@
+# NIF XRD with N17035-3 and N171127-2 adj for CASTEP EOS+strength
+#shot rho drho p(GPa) dp a_fcc(A) da
+# postshot
+N151130-2 35.8 0.3 750 50 3.308 0.009 # sim vel > VISAR by ~15%
+N160517-3 29.25 0.4 195 15 3.538 0.016
+N160809-1 41.4 1.5 1450 70 3.152 0.1 # sim vel > VISAR by ~8% poor diffraction quality
+N170305-3 42.4 0.5 1170 70 3.127 0.013 # sim vel > VISAR by ~10%
+N171127-2 49.8 1.0 2035 100 2.963 0.02 # sim vel > VISAR by ~10%
+
+
+# VISAR match
+N151130-2 35.8 0.3 570 38 3.308 0.009
+#N160517-3 29.25 0.4 195 15 3.538 0.016
+N160809-1 41.4 1.5 1265 61 3.152 0.1
+N170305-3 42.4 0.5 1030 70 3.127 0.013
+N171127-2 49.8 1.0 1840 75 2.963 0.02

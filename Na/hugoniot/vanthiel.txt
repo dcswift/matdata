@@ -1,0 +1,143 @@
+#     99---0                                                            page 1
+#     sodium summary
+#
+#     na
+#
+#
+#
+#     v0 = 0.1033 cc/g                                 c0 = 2.33 km/sec
+#     v0i= 0.1034 cc/g
+#
+#     the table lists hugoniot points calculated from the fit given below.
+#     units are: g/cc, km/sec, kbar and kbar.cc/g for the energy difference.
+#
+#                              table
+#
+#rho0	Us	Up	P	v/v0	e-e0
+0.967	3.777	1.0	36.5	0.735	5.00
+0.967	5.037	2.0	97.4	0.603	20.0
+0.967	6.297	3.0	183.	0.523	45.0
+0.967	7.557	4.0	292.	0.471	80.0
+0.967	10.077	6.0	585.	0.404	180.
+0.967	12.597	8.0	974.	0.365	320.
+#
+#             Us = 2.517 + 1.260*Up, sig. Us = 0.06 km/sec
+#                                    for up between 1 and 8 km/sec.
+#
+#
+#
+#     comments:
+#
+#     1) source: compiler
+#     1a) the data of 99---1 and 2 were used for this fit.
+#     2) v0i and c0 calculated as in 99---1
+#     3) see also the zero pressure properties in comment 4 page 99---2
+
+
+
+#     99---1                                                            page 1
+#     sodium
+#
+#     na
+#
+#
+#
+#     v0 = 1.033 cc/g                          co = 2.33 km/sec.
+#     v0i = 1.034 cc/g.
+#
+#     in the table below, velocities are give in mm/microsec.
+#     pressure in kilobars and density in g/cc.
+#
+#                                       table
+#
+#rho0	Us	Up	P	v/v0
+0.968	4.336	1.417	59.5	0.6732
+0.968	4.229	1.335	54.7	0.6843
+0.968	4.238	1.347	55.3	0.6822
+0.968	4.918	1.842	87.7	0.6255
+0.968	4.883	1.869	88.3	0.6172
+0.968	4.914	1.849	88.0	0.6237
+0.968	5.521	2.407	128.6	0.5640
+0.968	5.529	2.404	128.7	0.5652
+0.968	5.540	2.419	129.7	0.5634
+0.968	5.505	2.375	126.6	0.5686
+0.968	5.561	2.423	130.4	0.5643
+0.968	6.245	2.998	181.2	0.5199
+0.968	6.225	2.996	180.5	0.5187
+0.968	6.925	3.518	235.8	0.4920
+0.968	6.911	3.547	237.3	0.4868
+0.968	7.942	4.300	330.6	0.4586
+0.968	8.036	4.392	341.6	0.4535
+0.968	8.076	4.392	343.8	0.4562
+#
+#         Us = 2.563 + 1.242 up km/sec.
+#
+#
+#
+#     comments:
+#
+#     1) source: rice, m. h.
+#                j. phys. chem. solids, vol. 26, p. 483  (1965)
+#     2) experimental technique b
+#        data reduction technique b
+#        standard material 2024 aluminum
+#     3) c0 is calculated by using a bulk modulus of 5.92 e+10 dynes/cm**2.
+#        american institute of physics handbook, p. 3-81 (mcgraw-hill book
+#        company, inc., n.y., 1957).
+#     4) v0i is also obtained from the above reference
+
+
+
+#     99---2                                                            page 1
+#     sodium
+#
+#     na
+#
+#
+#
+#     vo  = 1.03  cc/g
+#     voi = 1.035 cc/g
+#
+#     in the table below, density is given in g/cc, velocities in km/sec,
+#     and pressure in kilobars.
+#
+#                                       table
+#
+#            sample                         base plate
+#
+#rho0	Us	Up	P	v/v0	material	Up
+0.97	3.91	1.10	42	0.719	al	0.69
+0.97	4.72	1.77	81	0.625	al	1.14
+0.97	5.53	2.43	132	0.565	al	1.60
+0.97	7.70	4.09	305	0.467	al	2.82
+0.97	9.26	5.25	471	0.433	al	3.70
+0.97	10.57	6.32	648	0.402	plexiglas	5.85
+0.97	12.52	7.96	966	0.364	plexiglas	7.38
+#
+#     Us = 2.50 + 1.27 up  km/sec
+#     sigma Us = 0.067  km/sec
+#
+#
+#
+#     comments:
+#
+#     1) source: bakanova, a. a., dudoladov, i. p., trunin, r. f.
+#                fizika tverdogo tela, vol. 7, no. 6,  pp. 1616 - 1622 (1965).
+#     2) experimental technique a.
+#        data reduction technique b.
+#     3) the following hugoniot ralationships for the base plate were used:
+#         al standard  Us = 5.25 + 1.39 up km/sec   rho0 = 2.71 g/cc.
+#         plexiglas    Us = 3.10 + 1.32 up km/sec   rho0 = 1.18 g/cc (for us
+#         equal or greater than 6.0 km/sec).
+#     4) other listed na parameters:
+#         at 300.0 deg. k
+#           rho0             0.97 g/cc
+#           compressibility  16.3 per megabar
+#           gruneisen coef.  1.30
+#         at 0.0 deg. k
+#           rho0                      1.013 g/cc
+#           compressibility           14.3  per megabar
+#           electronic heat capacity  596 erg/g deg. square
+#        the value of v0i was obtained from a. taylor and brenda j. kagle,
+#        crystallographic data on metal and alloy structures
+#        (dover publications, inc.,  new york,  n. y.,  1963).

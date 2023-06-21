@@ -1,0 +1,18 @@
+# D.C. Swift, D.L. Paisley, K.J. McClellan, and G.J. Ackland,
+# Phys. Rev. B 76, 134111 (2007).
+
+#Trident_shot up dup p dp
+# km/s km/s GPa GPa
+
+# Cu impact, PMMA window release
+14126	0.186 0.002	5.4 0.7
+14127	0.218 0.003	8.1 0.8
+14128	0.130 0.001	3.5 0.3
+14139	0.067 0.006	3.0 0.3
+14140	0.098 0.005	3.0 0.2
+
+
+# Cu impact, Cu baseplate, void release
+14136	0.061 0.010	2.2 0.4
+14137	0.070 0.010	2.5 0.4
+14138	0.087 0.015	3.2 0.7

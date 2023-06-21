@@ -1,0 +1,1076 @@
+#    23-2-1(5-8-2)---0                                                 page 1
+#    polymethylmethacrylate summary
+
+#    polymethylmethacrylate  (h2-c-c(c-h3)-c-o2-c-h3)n = (c5-h8-o2)n
+
+
+
+#    v0 = 0.8474 cc/g          cl = 2.72 km/sec        c0 = 2.19 km/sec
+#                              cs = 1.40 km/sec
+
+#    the table lists plexiglass hugoniot points calculated from the fits 1a,2
+#    and 3a given below. units are: g/cc, km/sec, kbar and kbar.cc/g for the
+#    energy difference. ser = semi elastic region.
+
+#                                  table
+
+#         fit  rho0    us      up       p       v/v0     e-e0    comments
+
+          1a   1.18    3.035    .1       3.5    0.967      .050  ser
+           -    -      3.205    .3      11.3    0.906      .45
+           -    -      3.375    .5      20.     0.852     1.25
+           -    -      3.488    .633    26.     0.819     2.0    intersection
+          2a    -      4.055   1.0      47.8      753     5.0
+           -    -      5.136   1.7     103.       669    14.4
+           -    -      6.218   2.4     176.       614    28.8
+           -
+          3a    -      6.677   2.7     213.     0.596    36.4
+           -    -      7.717   3.5     319.     0.546    61.2
+           -    -      9.667   5.0     570.     0.483   125.
+           -    -     12.267   7.0    1013.     0.429   245.
+           -    -     14.867   9.0    1579.     0.395   405.
+           -    -     17.467  11.0    2267.     0.370   605.
+
+
+#    us = 2.95  +  .85 *up,  sig.us = ?                      (for plexiglas)
+#                            for up between .14 and .46 km/sec
+#    us = 2.510 + 1.545*up,  sig.us = .12 km/sec             (for plexiglas)
+#                            for up between 1. and 2.5 km/sec
+#    us = 3.167 + 1.300*up,  sig.us = .14 km/sec             (for plexiglas)
+#                            for up between 2.6 and 10.2 km/sec
+#    us = 2.280 + 1.782*up,  sig.us = .10 km/sec             (for lucite)
+#                            for up between .8 and 2.3 km/sec
+#    us = 3.286 + 1.236*up,  sig.us = .08 km/sec             (for lucite)
+#                            for up between 2.5 and 4.3 km/sec
+
+
+
+#    comments:
+
+#    1) source: compiler
+#               fit 1a from data of  23-2-1(5-8-2)---12
+#               - 2a and 3a from data of 23-2-1(5-8-2)---5 and 10
+#               fit 1b and 2b  -    -   -  23-2-1(5-8-2)---3 and 6.
+#    2) no seperate elastic wave has been detected but fit n0 1 extrapolates
+#       to a point close to cl indicating a lack of plastic deformation at
+#       low pressures. slow yielding is indicated by the attenuation in p
+#       shown by entry 23-2-1(5-8-2)---13. as indicated by ---3, the slope
+#       of 1a obtained from the assumption ufs=2up may be too large by 15 to
+#       20 percent.
+#    3) polymethylmethacrylate data vary somewhat more than monomeric
+#       materials from source to source, indicating a sensitivity to the
+#       method of preparation.
+#    4) in connection with comment 3, the difference between fits 2a and 1b
+#       may be the manufacturing process: fits a are for plexiglass of rohm
+#       and haas co., while fits b are for dupont de nemours co. lucite.
+#       also:
+#       23-2-1(5-8-2)---8 data show the change in dus/dup at 190 kbar clearly
+#                         but show a lower compressibility than the above.
+#       23-2-1(5-8-2)---12 and 15 less compressible than the above fits
+#       23-2-1(5-8-2)---9 quite soft compared to the american products
+#       23-2-1(5-8-2)---11 is in general agreement
+#       other data is less are less accurate.
+
+
+
+#    23-2-1(5-8-2)---1                                                 page 1
+#    perspex (polymethylmethacrylate)
+
+#    polymethylmethacrylate (h2-c-c(c-h3)-c-o2-c-h3)n = (c5-h8-o2)n
+
+
+
+
+#    v0 = 0.847 cc/g
+
+
+#    in the table below, density is given in g/cc, velocities in mm/microsec,
+#    and pressure in kilobars.
+
+#                                    table
+
+#                        rho0   us    up    p    v/v0
+
+                         1.18   7.11 3.34  282   .530
+                           -    7.62 3.20  288   .580
+                           -    7.43 3.26  288   .563
+                           -    8.50 4.24  425   .506
+                           -    8.50 4.34  435   .493
+                           -    8.61 4.37  447   .493
+                           -    8.67 4.40  450   .491
+                           -   12.88 7.78 1180   .396
+                           -   13.03 7.70 1190   .409
+                           -   13.37 7.68 1210   .426
+
+#             us = 3.07 + 1.295 up km/sec,  sig.us = 0.25 km/sec
+
+
+
+#    comments:
+
+#    1) source: skidmore, i.c. and morris, e.
+#               thermodynamics of nuclear materials, p. 173 ff. (1962)
+#               intern. at. energy agency, vienna
+#               atomic weapons research establishment, aldermaston, england
+#    2) experimental technique a
+#       data reduction technique b
+#       the shock wave was produced by an explosively accelerated en3 steel
+#       plate.
+#       the shock was transmitted through a steel plate into the sample.
+#    3) the velocity of the flying plate and the shock and surface velocity
+#       of the target plate were measured as well as the sample surface and
+#       shock velocities.
+#    4) data scatter was about 0.03 microsec.
+#    5) corrections were made for flying plate curvature of up to 1 microsec.
+#    6) the higher pressures were obtained by a spherically converging
+#       system.
+#    7) all pellets were surrounded by lead to reduce lateral rarefaction.
+
+
+
+
+#    23-2-1(5-8-2)---2                                                 page 1
+#    plexiglas (polymethylmethacrylate)
+
+#    polymethylmethacrylate (h2-c-c(c-h3)-c-o2-c-h3)n = (c5-h8-o2)n
+
+
+
+
+#    v0 = .847 cc/g      cl = 2.670 km/sec   c0 = 2.42 km/sec
+#                        cs = 1.121 km/sec
+
+#    in the table below, velocities are given in mm/microsec, and pressure in
+#    kilobars. u is the velocity of the projectile plate.
+
+#                                    table
+
+#                    rho0    us    up    p    v/v0     u
+
+                     1.18   3.23  0.150  5.69 0.9536
+                      -     3.22  0.210  7.88 0.9348
+                      -     3.92  0.665 30.7  0.8304
+                      -     3.92  0.900 41.6  0.7704
+                      -     4.35  1.20  61.3  0.6522
+                      -     4.39  1.34  69.4  0.6948
+                     1.18   3.16  0.454 16.9  0.856   0.571
+                      -     3.26  0.590 22.7  0.819   0.745
+                      -     3.85  0.916 41.6  0.762   1.19
+                      -     4.17  1.17  57.6  0.720   1.54
+                      -     4.52  1.43  76.5  0.684   1.91
+                      -     5.97  2.28 160.   0.618   3.18
+
+#                  us = 3.06 + 1.04*up km/sec    (first 6 pts)
+#                  sig.us = 0.1  km/sec
+#                  us = 2.35+1.57*up km/sec    (last  6 pts)
+#                  sig.us = 0.06 km/sec
+
+
+
+#    comments:
+
+#    1) source: wagner, m.h., waldorf, w.f. and louie, n.a.
+#               report no. afswc-tdr-62-66, vol. 1 (1962)
+#               work done at downey, california.
+#    2) experimental technique a
+#       data reduction technique: d, up=1/2*ufs  for first 6 points only
+#                                 a, impactor material 2024-t3 al     rest
+#    3) accuracy is limited because assembly dimensions allow relatively
+#       large deviations from one-dimensionality.
+#    4) cl and cs from bergman, l., der ultraschall, s. hirzel verlag, stutt-
+#       gart, p 650 (1954)
+#    5) the 95 percent confidence range of the measured parameters in the
+#       last set of 6 points in the order of the listing is given by:
+#          + or - fdel us =  11.   6.4  8.0  5.5  6.9  10.5    percent
+#           + or - fdel u =   1.8  2.1  2.9  5.0  2.1  7.1        -
+#           here fdel u = 100(del u)/u
+
+
+
+#    23-2-1(5-8-2)---3                                                 page 1
+#    lucite (polymethylmethacrylate)
+
+#    polymethylmethacrylate (h2-c-c(c-h3)-c-02-c-h3)n = (c5-h8-02)n
+
+
+
+#    v0 = 0.845 cc/g
+
+
+#    in the table below, density is given in g/cc, velocities in km/sec
+#    and pressure in kilobars.
+
+#                             table
+
+#                           sample                    al base plate
+
+#        rho0     us     ufs    up       p    v/v0      pressure
+
+         1.182    8.55   8.15   4.19    422   0.510        796
+         1.184    7.84   7.25   3.76    348   0.520        670
+         1.183    5.31   3.21   1.75    110   0.670        231
+         1.183    6.43   5.12   2.52    192   0.608        381
+         1.184    7.35   6.04   3.30    287   0.551        553
+         1.184    8.50          4.23    426   0.502        804
+         1.186    5.83   3.94   1.99    138   0.659        277
+         1.184    4.45   2.24   1.21     64   0.728        143
+         1.183    3.66   1.42   0.88     38   0.761         94
+         1.186    5.00   2.907  1.615    96   0.6770       207
+         1.187    4.504         1.387    74   0.6921       168
+
+#    us = 2.80 + 1.37 up  km/sec
+#    sigma us = 0.199  km/sec
+
+
+
+#    comments:
+
+#    1) source: compiler
+#               l. r. l.  equation of state file
+#               lawrence radiation laboratory, livermore, california.
+#    2) experimental technique b   (aluminum standard base plate)
+#       data reduction technique b.
+#    3) the observation in the table that up tends to be less than 1/2ufs
+#       suggests that part of the shock compression is irreversible on the
+#       time scale of the experiment
+
+
+
+#    23-2-1(5-8-2)---4                                                 page 1
+#    perspex (polymethylmethacrylate)
+
+#    polymethylmethacrylate (h2-c-c(c-h3)-c-02-c-h3)n = (c5-h8-02)n
+
+
+
+
+#    v0 = 0.83 cc/g
+
+
+
+#    in the table below, density is given in g/cc, velocities in km/sec,
+#    pressure in kilobars and sample thickness, d, in mm.
+
+#                                      table
+
+#                       rho0   us    up    ufs   p    v/v0     d
+
+                        1.2   5.37  2.2   4.3   141.  0.59    3.22
+                         -    5.29  1.8   3.6   114.  0.66    6.16
+                         -    5.12  1.64  3.28  101.  0.680  12.42
+                         -    4.81  1.59  3.18   92.  0.670  24.88
+                         -    4.54  1.43  2.87   78.  0.685  37.5
+                         -    4.30  1.12  2.24   57.8 0.740  49.6
+                         -    4.08  0.95  1.89   46.5 0.767  62.3
+                         -    3.88  0.70  1.40   32.6 0.820  74.4
+
+#         us = 3.07 + 1.12 up  km/sec
+#         sigma us = 0.15  km/sec
+
+
+
+#    comments
+
+#    1) source: buchanan, j. s., james, h. j. and teague, g. w.
+#               phil. mag., vol. 3, p. 1432, (1958)
+#    2) experimental technique a
+#       data reduction technique d
+#    3) note further that the shock velocities were obtained by first fitting
+#       time-position data for the shock in lucite, giving:
+#               us = 1/(0.183 + 0.001*d) km/sec., where d is in mm
+#       this presmoothing of the us data reduced sigma us slightly.
+#    4) deviations from one dimensionality in these experiments are relative-
+#       ly large due to the small explosive charge used: 7.5 cm.
+
+
+
+#    23-2-1(5-8-2)---5                                                 page 1
+#    plexiglas (polymethylmethacrylate)
+
+#    polymethylmethacrylate (h2-c-c(c-h3)-c-02-c-h3)n = (c5-h8-02)n
+
+
+
+
+#    v0 = 0.8474 cc/g         cl = 2.718 km/sec         c0 = 2.188 km/sec
+#                             cs = 1.396 km/sec
+
+
+#    in the table below, density is given in g/cc, velocity in km/sec and
+#    pressure in kilobars.
+
+#                                     table
+
+#                       rho0   us    ufs   up    p    v/v0
+
+                        1.180 5.884       2.223 154.3 0.6222
+                          -   5.110       1.682 101.4 0.6708
+                          -   5.102       1.674 100.8 0.6719
+                          -   4.312       1.181  60.1 0.7261
+                          -   4.290       1.200  60.8 0.7203
+                        1.182 4.336       1.198  61.4 0.7237
+                        1.181 6.816 5.395 2.668 214.8 0.6086
+
+#         us = 2.334 + 1.650 up  km/sec
+#         sigma us = 0.067       km/sec
+
+
+
+#    comments:
+
+#    1) source: deal, w. e.
+#               private communication
+#               walsh, j. m., yarger, f. l., and mcqueen, r. g.
+#               gmx-6 reports 1954, 1955.
+#               gmx-6, los alamos scientific laboratory, los alamos,
+#                                                               new mexico
+#    2) experimental technique b
+#       data reduction technique b.  standard material 2027 al
+#    3) only the last value of up was obtained by subtracting from .5*ufs the
+#       extrapolated quantity 1/2(ufs-2up) given by the material
+#    4) the above sound velocities were obtained on a plexiglas type g
+#       unshrunk sheet with rho = 1.187 g/cc at t = 23 degrees centigrade
+#       also measured by deal and marsh:
+#            plexiglas type ii, uvt sheets, rho = 1.185 g/cc, t = 23 degrees
+#            centigrade
+#              cl = 2.715, cs = 1.395, c0 = 2.186 km/sec
+#            evr-kleer       rho = 1.184 g/cc       t = 23 degrees
+#              cl = 2.691, cs = 1.376, c0 = 2.172 km/sec
+#                     by ramsay, gmx-8, above address
+#            evr-kleer
+#              cl = 2.713, cs = 1.367, c0 = 2.206 km/sec
+             'old' evr-kleer
+#              cl = 2.706, cs = 1.407, c0 = 2.163 km/sec
+
+
+
+
+#    23-2-1(5-8-2)---6                                                 page 1
+#    lucite (polymethylmethacrylate)
+
+#    polymethylmethacrylate (h2-c-c(c-h3)-c-02-c-h3)n = (c5-h8-02)n
+
+
+
+
+#    v0 = 0.8474 cc/g
+
+
+
+#    in the table below, density is given in g/cc, velocity in km/sec and
+#    pressure in kilobars.
+
+#                                     table
+
+#                       rho0   us    up    ufs   p    v/v0
+
+                        1.180 6.257 2.244 4.522 165.7 0.6414
+                          -   6.078 2.153       154.4 0.6458
+                          -   5.263 1.689 3.396 104.9 0.6791
+                          -   4.705 1.310 2.592  72.7 0.7216
+                          -   4.695 1.310 2.609  72.6 0.7210
+                          -   4.719 1.299 2.580  72.3 0.7247
+                          -   5.409 1.722       109.9 0.6816
+
+#         us = 2.556 + 1.637 up  km/sec
+#         sigma us= 0.037  km/sec
+
+
+
+#    comments:
+
+#    1) source: deal, w. e.
+#               private communication
+#               gmx.6, los alamos scientific laboratory, los alamos,
+#                                                               new mexico.
+#    2) experimental technique b
+#       data reduction technique b.  standard material 2024 al
+#    3) the last point has been reported before by:
+#       walsh, j. m., yarger, f. l., and mcqueen, r. g.
+#       gmx-6 reports 1954, 1955.
+
+
+
+#    23-2-1(5-8-2)---7                                                 page 1
+#    plexiglas (polymethylmethacrylate)
+
+#    polymethylmethacrylate (h2-c-c(c-h3)-c-02-c-h3)n = (c5-h8-02)n
+
+
+
+
+#    v0 = 0.847 cc/g
+
+
+
+#    in the table below, density is given in g/cc, velocity in km/sec and
+#    pressure in kilobars.
+
+#                                    table
+
+#                   rho0    us         up     p     v/v0
+
+                    1.18   2.900      0.073   2.5   0.975
+                     -     2.940      0.077   2.7   0.974
+                     -     2.980      0.086   3.0   0.971
+                     -     3.025      0.098   3.5   0.967
+                     -     3.070      0.125   4.5   0.959
+                     -     3.101      0.150   5.5   0.952
+                     -     3.130      0.176   6.5   0.944
+                     -     3.157      0.202   7.5   0.936
+                     -     3.183      0.228   8.5   0.928
+                     -     3.080      0.176   6.5   0.943
+                     -     3.097      0.189   7.0   0.939
+                     -     3.121      0.215   8.0   0.931
+                     -     3.143      0.240   9.0   0.923
+                     -     3.177      0.291  11.0   0.908
+                     -     3.204      0.343  13.0   0.893
+                     -     3.228      0.394  15.0   0.878
+                     -     3.250      0.446  17.0   0.863
+                     -     3.270      0.488  19.0   0.851
+
+#     us = no simple polymonial adequately represents this data
+
+
+
+#    comments
+
+#    1) source: schmidt, d. n. and evans, m. w.
+#               preprint
+#               stanford res. inst., palo alto, california.
+#    2) experimental technique d
+#       data reduction technique  not summarised.
+#       a relatively elaborate correction must be applied to the observations
+#       in these two experiments since the wave has a distinct two dimensio-
+#       nal character and impacts the sample surface at an angle.
+#       see: fowles, g. r.,  j. appl. phys., vol. 32, p. 1475, (1961)
+#    3) the data show a strongly curving us vs. up locus.
+
+
+
+#    23-2-1(5-8-2)---8                                                 page 1
+#    plexiglas (polymethylmethacrylate)
+
+#    polymethylmethacrylate   h2-c-c(c-h3)-c(0)-0-ch3 n =  c5-h8-02
+
+
+
+#    v0 = 0.847 cc/g
+
+#    in the table below density is given in g/cc, velosity in km/sec. and
+#    pressure in kilobars
+
+
+#                                 table
+
+#                   rho0    us     up      p     v/v0
+
+                    1.18   4.07   0.89    42.7  0.781
+                     -     4.58   1.17    63.2  0.744
+                     -     4.60   1.15    62.4  0.750
+                     -     5.45   1.75   112.5  0.678
+                     -     5.47   1.80   116.2  0.671
+                     -     5.52   1.71   111.4  0.690
+                     -     6.05   2.08   148    0.656
+                     -     6.07   2.11   151    0.652
+                     -     6.08   2.03   146    0.667
+                     -     6.08   2.16   155    0.644
+                     -     6.09   2.20   158    0.638
+                     -     6.15   2.10   152    0.658
+                     -     6.16   2.12   154    0.656
+                     -     6.46   2.34   178    0.637
+                     -     6.48   2.38   182    0.632
+                     -     6.78   2.48   198    0.634
+                     -     6.88   2.72   221    0.604
+                     -     6.93   2.65   217    0.617
+                     -     7.13   2.88   242    0.596
+                     -     7.33   3.08   266    0.579
+                     -     7.50   3.19   282    0.575
+                     -     7.54   3.24   288    0.570
+                     -     7.57   3.33   297    0.560
+                     -     7.58   3.28   293    0.568
+                     -     7.62   3.28   295    0.570
+                     -     7.62   3.32   298    0.564
+                     -     7.62   3.35   301    0.560
+                     -     7.64   3.28   296    0.571
+                     -     7.66   3.25   294    0.576
+                     -     7.67   3.36   304    0.562
+
+#       us = 2.68 + 1.61 up  km/sec  from up = 0.8 to 2.6 km/sec
+#       sigma us = 0.08  km/sec
+#       us = 3.51 + 1.25 up  km/sec  from up = 2.8 to 3.5 km/sec
+#       sigma us = 0.05  km/sec
+
+
+
+
+#    comments:
+
+#    1) source: hauver, g.e. and melani, a.
+#               b.r.l report no. 1259 (1964)
+#               ballistic res. labs., aberdeen proving grounds
+#                                             maryland
+#    2) experimental technique h
+#       data reduction method b
+#    3) the above data suggest a transition at 200 kb  which is supported
+#       by a rapid change in the polarization signal above this pressure
+#    4) all points were corrected for shock wave tilt
+
+
+
+#    23-2-1(5-8-2)---9                                                 page 1
+#    plexiglas (polymethylmethacrylate)
+
+#    polymethylmethacrylate (h2-c-c(c-h3)-c-o2-c-h3)n = (c5-h8-o2)n
+
+#    manufactured by  rohm and haas gmbh,  darmstadt, germany.
+
+
+
+#    vo = 0.840 cc/g
+
+
+
+#    in the table below, density is given in g/cc, velocities in km/sec,
+#    and pressure in kilobars.
+
+#                                  table
+
+#                     rho0    us     up     p    v/v0
+
+                      1.19   4.17   1.31    65   0.686
+                       -     4.56   1.53    83   0.665
+                       -     5.26   2.05   128   0.611
+                       -     5.81   2.41   167   0.584
+                       -     5.78   2.44   168   0.577
+                       -     6.59   2.77   218   0.579
+
+#    us = 2.12 + 1.56 up  km/sec
+#    sigma us = 0.116  km/sec
+
+
+
+#    comments:
+
+#    1) source: lundberg, lennart.
+#               private communication
+#               research institute of national defence, stockholm, sweden.
+#    2) experimental technique b.
+#       data reduction technique b.
+
+
+
+#    23-2-1(5-8-2)---10                                                page 1
+#    plexiglas (polymethylmethacrylate)
+
+#    polymethylmethacrylate (h2-c-c(c-h3)-c-02-c-h3)n = (c5-h8-02)n
+
+
+
+#    v0 = 0.847 cc/g
+
+#    in the table below, density is given in g/cc, velocities in km/sec,
+#    and pressure in kilobars.
+
+#                                      table
+
+#                         sample                         base plate
+
+#           rho0    us      up     p     v/v0          material    up
+
+            1.18    4.24   1.04     52   0.734        al          0.69
+             -      5.96   2.29    161   0.616        al          1.60
+             -      6.42   2.44    185   0.620        al          1.74
+             -      6.60   2.73    213   0.586        plexiglas   2.73
+             -      8.02   3.76    356   0.531        al          2.77
+             -      8.96   4.52    477   0.495        plexiglas   5.62
+             -      9.72   4.97    570   0.488        al          3.70
+             -      9.89   5.16    602   0.478        plexiglas   6.46
+             -     10.31   5.45    663   0.471        plexiglas   6.85
+             -     10.45   5.70    703   0.455        plexiglas   7.16
+             -     10.68   5.75    724   0.461        plexiglas   7.24
+             -     12.52   7.18   1060   0.427        plexiglas   9.10
+
+#    us = 2.96 + 1.34*up km/sec
+#    sigma us = 0.098 km/sec
+
+
+
+#    comments:
+
+#    1) source: bakanova, a.a., dudoladov, i.p. and trunin, r.f.
+#               fizika tverdogo tela, vol. 7, no. 6, pp. 1616 - 1622  (1965)
+#    2) experimental technique a
+#       data reduction technique b.
+#    3) the following hugoniot ralationships for the al base plate were used:
+#       us = 5.25 + 1.39 up  km/sec
+#       rho0 = 2.71 g/cc
+#    4) the above linear us up relationship seems to break up below
+#       4.50 km/sec. between up = 2.0 and 8.0 km/sec this source gives
+#       a fit :  us = 3.10 + 1.32*up km/sec .
+#    5) a single point us = 16.5 up = 10.2 p = 2000 v/v0 = 0.382
+#       was reported by: zeldovich et al
+#                        doklady akad. nauk sssr(phys), vol. 122, p.48 (1958)
+#                          or
+#                        soviet phys., doklady, vol. 3, p. 905, (1958)
+
+
+
+#    23-2-1(5-8-2)---11                                                page 1
+#    plexiglas (polymethylmethacrylate)
+
+#    polymethylmethacrylate (h2-c-c(c-h3)-c(o)-o-c-h3)n = (c5-h8-o2)n
+                                                                  95 percent
+#    m33 plastifier                                                5 percent
+
+
+
+#    v0 = 0.840 cc/g
+
+#    in the table below, velocities are given in km/sec.  pressure in
+#    kilobars and density in g/cc.
+
+#                                    table
+
+#             ----------------sample-----------------   -standard-
+#             rho0    us    ufs    up      p     v/v0      ufs
+
+              1.19  6.305  4.682  2.265  170    0.641
+               -    6.305  4.744  2.290  172    0.637
+               -    6.203  4.612  2.230  164.5  0.640
+               -    6.289  4.409  2.140  160    0.660
+               -    6.097  4.244  2.060  149.5  0.662
+               -    6.068  4.394  2.135  154    0.648
+               -    6.045  4.166  2.020  146.5  0.666
+               -    6.105  4.251  2.060  148    0.669
+               -    5.938         2.052  145    0.654     2.890
+               -    5.708         2.037  138.5  0.643     2.840
+               -    6.017  4.160  2.020  144.5  0.664
+               -    6.017  4.150  1.995  143    0.668
+               -    5.767         2.083  143    0.639     2.910
+               -    5.980         2.002  142.5  0.665     2.820
+               -    5.555         1.970  130    0.645     2.720
+               -    5.695         1.948  132    0.658     2.720
+               -    5.675         1.940  131    0.658     2.710
+               -    5.675         1.881  127    0.669     2.640
+               -    5.470         1.874  122    0.657     2.600
+               -    5.543         1.850  122    0.666     2.570
+               -    5.580         1.814  120.5  0.675     2.525
+               -    5.562         1.828  121    0.671     2.545
+               -    5.359         1.756  112    0.672     2.420
+               -    5.537         1.723  113.5  0.689     2.400
+               -    5.252         1.800  112    0.657     2.475
+               -    5.336         1.771  112.5  0.668     2.445
+               -    5.219         1.768  107    0.661     2.400
+               -    5.279         1.780  109    0.663     2.440
+               -    5.241         1.627  101.5  0.690     2.240
+               -    5.219         1.642  102    0.685     2.260
+               -    5.123         1.591   97    0.689     2.180
+               -    5.066         1.592   96    0.686     2.175
+               -    5.070         1.558   94    0.693     2.120
+               -    5.070         1.566   95.5  0.691     2.130
+               -    5.030         1.536   92    0.695     2.095
+               -    4.975         1.571   93    0.684     2.145
+               -    4.845         1.397   80.5  0.712     1.890
+               -    4.757         1.413   80    0.703     1.910
+               -    4.821         1.386   79.5  0.713     1.870
+               -    4.734         1.402   79    0.704     1.880
+               -    4.062         1.076   52    0.735     1.400
+               -    4.175         1.107   55    0.735     1.450
+               -    4.102         1.045   51    0.745     1.370
+               -    4.128         1.099   54    0.734     1.450
+               -    4.068         1.115   54    0.726     1.470
+               -    4.068         1.053   51    0.741     1.370
+               -    4.055         1.015   49    0.750     1.320
+               -    4.146         1.034   51    0.751     1.340
+               -    4.022         1.046   50    0.740     1.350
+               -    4.071         1.043   50.5  0.744     1.370
+               -    4.081         0.988   48    0.758     1.290
+               -    4.156         0.991   49    0.762     1.300
+               -    4.102         0.993   48    0.760     1.290
+               -    4.088         0.977   47.5  0.761     1.280
+               -    3.987         1.000   47.5  0.749     1.300
+               -    3.987         1.012   48    0.746     1.305
+               -    4.125         0.958   47    0.768     1.260
+               -    4.092         0.956   46.5  0.766     1.257
+               -    3.955         0.935   44    0.764     1.210
+               -    3.897         0.917   42.5  0.765     1.190
+               -    3.882         0.937   43    0.759     1.200
+               -    3.903         0.930   43.5  0.760     1.220
+               -    3.793         0.880   40    0.768     1.130
+               -    3.770         0.858   38.5  0.772     1.110
+
+#             us = 2.239 + 1.798 up km/sec,  sig.us = 0.11 km/sec
+
+
+
+#    comments:
+
+#    1) source: berger j. and fauquignon c.
+#               private communication (1964), b.p. no. 7, sevran, france
+#    2) experimental technique b
+#       data reduction technique b
+#       standard materials aluminum au4g
+#    3) sample dimensions for the us measurements: 2.0 cm diameter
+#                                                  0.5 cm thickness
+#       sample dimensions for the ufs measurements: 2.0 cm diameter
+#                                                   0.25 cm thickness
+
+
+
+#    23-2-1(5-8-2)---12                                                page 1
+#    polymethylmethacrylate
+
+#    (h2-c-c(c-h3)-c-02-c-h3)n = (c5-h8-02)n
+
+
+
+#    v0 = 0.847 cc/g.             c0 = 2.71 km/sec. sigma = 0.03 km/sec.
+
+#    in the table below, density is given in g/cc., velocities in km/sec.,
+#    and pressure in kilobars. x designates the sample thickness which is
+#    given in mm.
+
+#                                    table
+
+#                    rho0    us      up     p      v/v0   x
+
+                     1.18   4.95   1.420   82.4   0.715   10
+                      -     4.62   1.210   66.0   0.738   15
+                      -     4.40   1.088   56.6   0.753   20
+                      -     4.21   0.990   49.2   0.765   25
+                      -     4.06   0.890   42.6   0.781   30
+                      -     3.88   0.780   35.7   0.799   35
+                      -     3.66   0.650   28.1   0.822   40
+                      -     3.46   0.538   22.0   0.845   45
+                      -     3.35   0.455   18.0   0.864   50
+                      -     3.30   0.383   14.9   0.884   55
+                      -     3.24   0.325   12.4   0.900   60
+                      -     3.21   0.283   10.7   0.912   65
+                      -     3.17   0.245    9.2   0.923   70
+                      -     3.14   0.225    8.3   0.928   75
+                      -     3.13   0.200    7.4   0.936   80
+                      -     3.10   0.145    5.3   0.953  100
+
+#       us = 2.95 + 0.85 up km/sec. from up = 0.145 to 0.455 km/sec.
+#       us = 2.56 + 1.69 up km/sec. from up = 0.538 to 1.420 km/sec.
+
+
+
+#    comments:
+
+#    1) source: liddiard t. p.
+#               the fourth symposium on detonation, vol. 1, b-47 (1965)
+#    2) experimental technique: a time resolved shadowgraph of the position
+#       of the shock front and a small thin foil which is accelerated by the
+#       initial pulse reaching the free surface, yielded us and foil
+#       velocity (ufs)
+#       data reduction technique: d., with the relationship 2up = ufs.
+#    3) c0 was measured with pressure waves produced in the sample by an
+#       exploding wire.
+
+
+
+#    23-2-1(5-8-2)---13                                                page 1
+#    plexiglas (polymethylmethacrylate)
+
+#    polymethylmethacrylate  (h2-c-c(c-h3)-c-02-c-h3)n = (c5-h8-02)n
+
+
+
+#    v0 = 0.849  cc/g
+
+#    in the table below, density is given in g/cc, velocities in km/sec,
+#    pressure in kilobars, 1 refers to impact surface of sample, 2 refers to
+#    back surface of sample, av refers to the average value across the sample
+
+#                                    table
+
+#        rho0    us1     up1       p1    v1/v0       usav    p2
+
+         1.178   2.93   0.0943    3.25   0.9678      2.96
+          -      3.13   0.142     5.24   0.9545      3.00    4.9
+          -      3.12   0.203     7.46   0.9348      3.04    6.3
+          -      3.14   0.203     7.50   0.9353      3.06    6.4
+          -      3.10   0.246     8.99   0.9207      3.04
+          -      3.01   0.280     9.94   0.9070      3.16    8.9
+          -      3.20   0.276    10.4    0.9138
+          -      3.28   0.274    10.6    0.9168      3.13    9.0
+          -      3.45   0.377    15.3    0.8920
+          -      3.61   0.459    19.5    0.8728
+          -      3.43   0.524    21.2    0.8476
+
+#    us1 = 2.84 + 1.36*up1  km/sec  for  up between 0.09 and 0.52 km/sec
+#    sigma us1 = 0.11  km/sec
+
+
+
+#    comments:
+
+#    1) source: halpin, w. j. and graham, r. a.
+#               shock wave compression of plexiglas from 3 to 20 kbar
+#               presented at the fourth symposium on detonation
+#               p. 38b, oct. 1965.  held at the u. s. naval ordnance
+#               laboratory, white oak, silver spring maryland.
+#    2) experimental technique i
+#       data reduction technique c
+#    3) the pressure difference between the impact surface and the back
+#       surface of the sample shows a decrease of pressure while the shock
+#       wave traverses the sample.
+#    4) the pressures measured at the impact and back surface suggest
+#       a pressure attenuation of the shock wave.
+
+
+
+#    23-2-1(5-8-2)---14                                                page 1
+#    polymethylmethacrylate
+
+#    (h2-c-c(c-h3)-c-02-c-h3)n = (c5-h8-02)n
+
+
+
+#    v0 = 0.862 cc/g
+
+#    the table lists density in g/cc, velocity in km/sec and pressure in
+#    kbars.
+
+#                               table
+
+#                  rho0   us     up      p     v/v0
+
+                   1.16   2.992  0.27    9.4   0.91
+                    -     3.50   0.40   16.2   0.894
+                    -     4.12   0.77   36.8   0.812
+                    -     4.45   1.06   54.5   0.762
+                    -     4.65   1.24   67.    0.735
+                    -     5.1    1.60   95.    0.69
+
+#                  us = 2.47 + 2.49*up - 0.54*up**2  km/sec.
+#                  sigma us = 0.11  km/sec.
+
+
+
+#    comments:
+
+#    1) source: dapoigny, j., kieffer, j. and vodar, b.
+#               comptes rendus,  vol. 245, p. 1502 (1957)
+#    2) experimental technique j1
+#       data reduction method e  (exept for the 95 kbar point which was
+#       calculated from the motion of the explosive-sample interface.
+#    3) the detonation front moved parallel to the sample surface generating
+#       a strongly attenuating shock wave at some angle to the sample-explo-
+#       sive interface. the above points where obtained on a single experimen
+#    4) the shock-particle velosity function curves towards the up axis as in
+#       23-2-1(5-8-2)---7, where a similar shock configuration was used.
+
+
+
+#    23-2-1(5-8-2)---15                                                page 1
+#    plexiglas (polymethylmethacrylate)
+
+#    (h2-c-c(c-h3)-c(0)-0-c-h3)n = (c5-h8-02)n
+
+
+
+#    v0 = 0.847 cc/g.
+
+#    in the table below, density is given in g/cc., velocities in km/sec.,
+#    and pressure in kilobars.
+
+#                                    table
+
+#                    rho0    us     ufs    up      p      v/v0
+
+                     1.18   4.68   2.60   1.30    71.8   0.722
+                      -     4.98   3.00   1.50    88.0   0.699
+                      -     5.27   3.40   1.70   106.0   0.677
+                      -     5.55   3.80   1.90   124.0   0.658
+                      -     5.84   4.20   2.10   145.0   0.640
+                      -     6.12   4.60   2.30   166.0   0.624
+                      -     6.39   5.00   2.50   189.0   0.609
+                      -     6.67   5.40   2.70   213.0   0.595
+                      -     6.94   5.80   2.90   238.0   0.582
+
+#    us = 2.87 + 1.41 up km/sec.  sigma us = 0.01 km/sec.
+
+
+
+#    comments:
+
+#    1) source: coleburn, n. l.
+#               navweps report 6026, 1960
+#               u. s. naval ordnance lab., white oak, maryland.
+#    2) experimental technique c and b.
+#       data reduction technique d, assuming 2up = ufs
+#    3) experimental error in the free-surface velocity (ufs) is 3 percent.
+#       a correction for shock tilt was applied, reducing the measured
+#       error in us by a factor of 10. the estimated experimental error in
+#       us is 0.5 percent. the shock front was tilted with respect to the
+#       surface by 14 and 22 degrees, ufs and up where assumed parallel to
+#       each other and perpendicular to the shock front.
+#    4) the velocities measured with method b were be 10 percent faster
+#       than those measured with method c, because of the large amount of gas
+#       compressed in the free surface gap. experiments with method b were
+#       accordingly corrected by this factor.
+
+
+
+
+#    23-2-1(5-8-2)---16
+#    lucite (polymethylmethacrylate)
+
+#    polymethylmethacrylate (h2-c-c(c-h3)-c-o2-c-h3)n
+
+
+
+#    v0 = 0.845 cc/g              cl = 2.69 km/sec         c0 = 2.17 km/sec
+#                                 cs = 1.38 km/sec
+
+
+#    in the table below, velocities are given in km/sec, pressure in kilobars
+#    and density in g/cc.
+
+#                                     table
+
+#       ----------------sample-------------------       -----standard-----
+
+#        rhoo       us       up       p       v/vo        material us(st)
+
+         1.180     4.66     1.25     69.     0.7318       2024 al   6.44
+         1.180     4.65     1.28     70.     0.7247       2024 al   6.47
+         1.180     4.64     1.28     70.     0.7241       2024 al   6.47
+         1.180     5.20     1.64    101.     0.6846       2024 al   6.81
+         1.180     6.00     2.10    149.     0.6500       2024 al   7.28
+         1.180     6.18     2.19    160.     0.6456       2024 al   7.38
+         1.186     9.56     4.66    528.     0.5126       2024 al   9.95
+         1.186     9.74     5.09    588.     0.4774       2024 al  10.35
+
+#    us = 2.551 + 1.645*up   km/sec  for up less than 3 km/sec
+#    sig us = 0.039 km/sec
+
+
+#    comments:
+
+#    1) source: mcqueen, r.g., marsh, s.p., taylor, j.w., fritz, j.m.,
+#               and carter, w.j.
+#               the equation of state of solids from shock wave studies,
+#               high velocity impact phenomena, kinslow (ed.) (academic
+#               press, new york, 1970) chapter vii
+#    2)  experimental technique : b
+#        data reduction technique : b
+
+
+
+#    23-2-1(5-8-2)---17
+#    plexiglas (polymethylmethacrylate)
+
+#    polymethylmethacrylate (h2-c-c(c-h3)-c-o2-c-h3)n
+
+
+
+#    v0 = 0.841 cc/g              cl = 2.72 km/sec      c0 = 2.19 km/sec
+#                                 cs = 1.40   -         cb = 2.18   -
+
+
+#    in the table below, velocities are given in km/sec, pressure in kilobars
+#    and density in g/cc.
+
+#                                     table
+
+#       ----------------sample-------------------       -----standard-----
+
+#        rhoo       us       up       p       v/vo        material us(st)
+
+         1.186     3.45     0.54     22.     0.8435       2024 al   5.79
+         1.186     3.70     0.72     32.     0.8054       2024 al   5.94
+         1.189     3.76     0.76     34.     0.7979       2024 al   5.98
+         1.186     3.72     0.76     34.     0.7957       2024 al   5.98
+         1.189     3.74     0.79     35.     0.7888       921-t al  5.76
+         1.186     4.04     0.97     46.     0.7599       2024 al   6.17
+         1.186     4.05     0.98     47.     0.7580       2024 al   6.18
+         1.180     4.26     1.13     57.     0.7347       2024 al   6.32
+         1.182     4.28     1.15     58.     0.7313       2024 al   6.33
+         1.180     4.24     1.15     58.     0.7288       2024 al   6.33
+         1.186     4.78     1.34     76.     0.7197       2024 al   6.53
+         1.186     4.78     1.34     76.     0.7197       2024 al   6.53
+         1.189     4.67     1.34     74.     0.7131       2024 al   6.53
+         1.186     4.66     1.36     75.     0.7082       2024 al   6.54
+         1.184     4.59     1.37     74.     0.7015       2024 al   6.55
+         1.189     4.70     1.46     82.     0.6894       921-t al  6.43
+         1.180     5.04     1.62     96.     0.6786       2024 al   6.79
+         1.180     5.05     1.63     97.     0.6772       2024 al   6.80
+         1.186     5.33     1.69    107.     0.6829       2024 al   6.88
+         1.186     5.33     1.69    107.     0.6829       2024 al   6.88
+         1.189     5.14     1.74    106.     0.6615       2024 al   6.91
+         1.186     5.30     1.78    112.     0.6642       2024 al   6.95
+         1.189     5.30     1.87    118.     0.6472       921-t a   6.86
+         1.189     5.30     1.87    118.     0.6472       921-t al  6.86
+         1.186     5.51     1.89    124.     0.6570       2024 al   7.07
+         1.180     5.81     2.17    149.     0.6265       2024 al   7.33
+         1.189     6.24     2.37    176.     0.6202       2024 al   7.55
+         1.186     6.24     2.38    176.     0.6186       2024 al   7.55
+         1.189     6.32     2.39    180.     0.6218       921-t al  7.43
+         1.186     6.32     2.40    180.     0.6203       2024 al   7.58
+         1.186     6.19     2.42    178.     0.6090       2024 al   7.58
+         1.186     6.44     2.47    189.     0.6165       2024 al   7.66
+         1.189     6.32     2.48    186.     0.6076       921-t al  7.52
+         1.186     6.69     2.64    209.     0.6054       2024 al   7.83
+         1.186     6.69     2.64    209.     0.6054       2024 al   7.83
+         1.186     6.84     2.79    226.     0.5921       2024 al   7.97
+         1.186     6.83     2.79    226.     0.5915       2024 al   7.97
+         1.186     6.83     2.83    229.     0.5857       2024 al   8.01
+         1.186     6.82     2.83    229.     0.5850       2024 al   8.01
+         1.186     8.77     4.35    452.     0.5040       2024 al   9.57
+         1.186     8.76     4.35    452.     0.5034       2024 al   9.57
+         1.189     9.56     4.66    530.     0.5126       2024 al   9.95
+         1.189     9.81     5.07    591.     0.4832       2024 al  10.35
+
+#    us = 2.572 + 1.536*up   km/sec  for up below 3 km/sec
+#    sig us = 0.084 km/sec
+
+
+
+#    comments:
+
+#    1) source: mcqueen, r.g., marsh, s.p., taylor, j.w., fritz, j.m.,
+#               and carter, w.j.
+#               the equation of state of solids from shock wave studies,
+#               high velocity impact phenomena, kinslow (ed.) (academic
+#               press, new york, 1970) chapter vii
+#    2)  experimental technique : b
+#        data reduction technique : b
+
+
+
+#    23-2-1(5-8-2)---18
+#    plexiglas (polymethylmethacrylate)
+
+#    (h2-c-c(c-h3)-c(o)-o-c-h3)n
+
+
+
+#    v0 = 0.8475
+
+
+#    the table lists rho0 in g/cc, velocities in km/sec and p in kbars.
+#    cu = copper, fs = fansteel and wf = weighting factor.
+
+#                                 table
+
+#           - - - - - - - - sample - - - - - - -    - impactor -
+
+#           rho0      us      up      p     v/v0    mat    u
+
+            1.180   10.482   5.592   692.  .4666    cu   6.907
+            1.180   12.075   6.833   981.  .4300    fs   7.902
+
+#           us = 3.10 + 1.32*up km/sec  (3.0 <up< 8.0)
+
+#    comments:
+
+#    1) source: isbell w.m., shipman f.h. and jones a.h.
+#               hugoniot equation of state of eleven materials to five mbars.
+#               materials science laboratory report: msl-68-1
+#    2) experimental technique: a
+#       data reduction method : a
+#    3) nominal uncertainties are: (sig.us)/us= .005 and (sig.u)/u= .005

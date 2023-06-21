@@ -1,0 +1,5 @@
+# M.I. McMahon et al, PNAS 104, 44, 17297 (2007)
+# ~room temperature
+
+#p(GPa) ⍴(g/cc)
+108 3.76

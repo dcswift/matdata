@@ -1,0 +1,154 @@
+#    45---1                                                            page 1
+#    platinum
+#    pt   99.8 per cent or greater
+#    v0 = 0.04679 cc/g.
+#    v01 = 0.04651 cc/g.
+#    in the table below, velocities are given in mm/microsec.,
+#    pressure in kilobars, and density in g/cc.
+#                                      table
+#rho0   us     up       p     v/v0
+21.37  4.199  0.329   295    0.9238
+-    4.306  0.4550  416.5  0.8943
+-    4.495  0.6102  586    0.8642
+#              us = 3.841 + 1.059 up km/sec   sigma us = 0.5 percent
+#    comments:
+#    1) source: walsh, j. m., rice, m. h., mcqueen, r. g. and yarger, f. l.
+#               phys. rev., vol. 108, p. 169 ff. (1957)
+#               los alamos scientific laboratory, gmx-6, los alamos, n. mex.
+#    2) experimental technique b
+#       data reduction technique b
+#       standard material 24st aluminum
+#    3) the probable error per data point is 0.7 per cent in shock velocity
+#       for a given free-surface velocity and approximately 3 per cent in
+#       compression at a given pressure.
+#    4) impurities were measured by spectrochemical analysis.
+
+
+#    45---2                                                            page 1
+#    platinum
+#    pt  99.5 percent or greater
+#    v0i= 0.0465   -     cs = 1.79   -       cb = 3.41   -
+#    v0i = 0.0465 ccg.   cs = 1.79 km/sec.   cb = 3.41 km/sec.
+#    in the table below, velocities are given in km/sec,
+#    pressure in kilobars and densities in g/cc.
+#                                    table
+#                         sample                           standard
+#rho0     us      up        p       v/v0       rho0     us
+21.43   4.179   0.360    322.4   0.9139       8.932   4.764
+21.43   4.365   0.483    451.8   0.8894       8.934   5.024
+21.43   4.402   0.488    460.3   0.8891        -      5.040
+21.43   4.682   0.675    677.3   0.8558        -      5.426
+21.43   4.778   0.738    755.7   0.8455        -      5.556
+21.43   5.420   1.150   1335.7   0.7878        -      6.387
+21.43   5.465   1.152   1349.2   0.7892        -      6.400
+21.43   5.442   1.180   1376.1   0.7832        -      6.443
+21.43   6.014   1.526   1966.7   0.7463        -      7.133
+21.43   6.316   1.700   2301.0   0.7308        -      7.482
+21.43   6.367   1.787   2438.3   0.7193        -      7.632
+21.43   6.548   1.937   2718.1   0.7042        -      7.910
+#         us = 3.646 + 1.535 up,  sig.us = 0.037 km/sec.
+#    comments:
+#    1) source: mcqueen, r.g. and marsh, s.p.
+#               report no. gmx-6-566, pp. 51-62 (1964)
+#               los alamos scientific laboratory, gmx-6, los alamos, n. mex.
+#    2) experimental technique b
+#       data reduction technique b
+#       standard material is copper
+#    3) the copper hugoniot is represented by
+#       us = 3.958 + 1.497 up  km/sec.
+#       the partial (de/dp)v = 0.0562 cubic cm.
+#    4) v0i was taken from the american institute of phys. handbook (mcgraw-
+#       hill book co. n.y., 1963) 2nd ed.
+
+
+#    45---3
+#    platinum
+#    pt   99.97 per cent or greater
+#    v0 =0.04664 cc/g
+#    v0i=0.04662 cc/g
+#    the table lists density in g/cc, velocities in km/sec and pressure in
+#    kbars.
+#                                      table
+#rho0     us     up      p    v1/v0
+21.46   6.67   2.04   2920.  0.694
+21.44   6.73   2.14   3080.  0.682
+21.45   6.96   2.26   3380.  0.675
+21.44   6.91   2.27   3360.  0.671
+21.44   7.23   2.38   3680.  0.671
+21.45   7.13   2.48   3790.  0.652
+21.45   7.17   2.49   3830.  0.653
+21.43   7.39   2.52   4000.  0.658
+21.46   7.45   2.60   4160.  0.651
+21.44   7.49   2.66   4270.  0.645
+21.44   7.64   2.70   4420.  0.647
+21.47   7.58   2.73   4440.  0.639
+21.44   7.62   2.74   4470.  0.641
+21.44   7.83   2.88   4840.  0.631
+21.44   7.77   2.90   4830.  0.627
+21.45   7.90   2.92   4950.  0.630
+21.44   8.25   3.04   5380.  0.632
+21.45   8.21   3.08   5420.  0.625
+21.45   8.25   3.18   5620.  0.615
+21.44   8.18   3.18   5580.  0.611
+21.44   8.37   3.19   5730.  0.619
+21.44   8.46   3.25   5890.  0.616
+21.45   8.59   3.28   6040.  0.618
+21.45   8.59   3.37   6210.  0.608
+21.45   8.87   3.46   6590.  0.609
+21.42   8.60   3.48   6410.  0.596
+21.45   8.75   3.49   6550.  0.601
+21.42   8.91   3.49   6660.  0.608
+21.42   8.88   3.49   6640.  0.607
+21.44   8.67   3.52   6540.  0.594
+21.43   8.87   3.59   6820.  0.596
+#                    us = 3.53 + 1.50*up km/sec
+#                    sig us= 0.092 km/sec
+#    comments:
+#    1) source: morgan,j.a.
+#               high temp high pres. vol 6, p. 195 (1974)
+#    2) experimental technique a
+#       data reduction technique  a
+#    3) symmetric impact using accelerating reservoir light gas gun
+#    4) the precision in up=1/2 impact velocity is 0.2 percent and in us
+#       is 1. percent
+#    5) the samples were cast rolled and peened to the listed density
+
+
+#    45---4
+#    platinum
+#    pt
+#    v0 = 0.04666 cc/g    cl = 4.08 km/sec   c0 = 3.51 km/sec
+#    v0i= 0.04660  -      cs = 1.79   -      cb = 3.64   -
+#    the table lists velocities in km/sec, pressure in kbars and density in
+#    g/cc. standard material describes the impactor
+#                                    table
+#       ----------------sample---------------------      ----standard-----
+#rhoo       us       up       p       v/vo           material
+21.370     4.15     0.32    284.     0.9229       2024 al   6.48
+21.430     4.12     0.34    300.     0.9175       cu        4.70
+21.370     4.25     0.44    400.     0.8965       2024 al   6.86
+21.430     4.30     0.46    424.     0.8930       cu        4.95
+21.430     4.34     0.47    437.     0.8917       cu        4.97
+21.370     4.44     0.60    569.     0.8649       2024 al   7.32
+21.430     4.61     0.65    642.     0.8590       cu        5.35
+21.430     4.71     0.71    717.     0.8493       cu        5.48
+21.430     5.34     1.12   1282.     0.7903       cu        6.29
+21.430     5.39     1.12   1294.     0.7922       cu        6.31
+21.430     5.36     1.15   1321.     0.7854       cu        6.35
+21.430     5.93     1.49   1893.     0.7487       cu        7.03
+21.430     6.22     1.66   2213.     0.7331       cu        7.37
+21.430     6.28     1.75   2355.     0.7213       cu        7.52
+21.430     6.45     1.90   2626.     0.7054       cu        7.80
+#        us = 3.598 + 1.544*up
+#    sigma us =  0.046   km/sec
+#    comments:
+#    1) source: mcqueen, r.g., marsh, s.p., taylor, j.w., fritz, j.m.,
+#               and carter, w.j.
+#               the equation of state of solids from shock wave studies,
+#               high velocity impact phenomena, kinslow (ed.) (academic
+#               press, new york, 1970) chapter vii
+#    2)  experimental technique: b
+#        data reduction technique: b (standard baseplate as shown)
+#    3)  v0i is the 25 deg. c value from wyckoff, crystal structures (john
+#        wiley and sons, n.y., 1963) vol. 1
+#    4) v(dp/de)=2.4

@@ -1,0 +1,15 @@
+# Yakushev et al, High Pressure Research 39, 3, 471 (2019)
+# Al flyer, Al baseplate, NiAl sample
+# NiAl crystal density 5.919 g/cc, sample density 5.854 g/cc
+
+# uf, us, p from paper; up, p uncertainties estimated from figures
+# up calc from Hugoniot relation
+# us uncertainty calc from up uncertainty; may be overestimate
+# Damian Swift, 1/23/23
+
+#uf us dus up dup p dp
+#km/s km/s km/s km/s km/s GPa GPa
+1.7 5.79 0.235 0.590 0.025 20.0 1.0
+3.3 6.55 0.26 1.20 0.05 46.0 2.0
+4.6 7.58 0.33 1.668 0.075 74.0 3.0
+5.1 7.65 0.35 1.85 0.09 83.0 4.0

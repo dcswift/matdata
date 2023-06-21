@@ -1,0 +1,489 @@
+#     27---0                                                            page 1
+#     lead, summary
+#
+#     pb
+#
+#
+#
+#     v0 = 0.0882 cc/g         cl = 2.16 km/sec    c0 = 2.00 km/sec
+#     v0i= 0.08818 cc/g        cs = 0.70 km/sec    cb=  2.00 km/sec
+#
+#     the table lists hugoniot points obtained from the listed us vs. up fits.
+#     density is in g/cc, velocities in km/sec, pressure in kbar and energy
+#     difference in kbar.cc/g. the first 8 entries are from 27---8. el =
+#     elastic limit.
+#
+#                                     table
+#
+#           fit rho0    us     up       p       v/v0      e-e0    comments
+
+            -  11.34  2.3     .00093     0.24  0.9996    0.0004  1st wave el
+
+            -  11.34  1.90    .0193      4.20  0.9901    0.0021  2nd  -
+            -  11.34  1.95    .0282      6.28  0.9853    0.0041   -   -
+            -  11.34  2.08    .0500     11.82  0.9736    0.0124   -   -
+            -  11.34  2.15    .1146     27.95  0.9466    0.0657   -   -
+            -  11.34  2.26    .1834     47.24  0.9191    0.1682  1st  -
+            -  11.34  2.37    .2546     68.55  0.8926    0.324    -   -
+            -  11.34  2.44    .2822     78.12  0.8842    0.398    -   -
+
+            1  11.34  2.467   .3        83.9   0.8784      45     -   -
+            1  11.34  2.929   .6       199.3   0.7951    1.80     -   -
+            1  11.34  3.544  1.0       402     0.7178    5.0      -   -
+            1  11.34  4.313  1.5       733     0.6522   11.2      -   -
+            1  11.34  5.082  2.0      1152     0.6064   20.0      -   -
+
+            2  11.34  5.364  2.2      1338     0.5898   24.2      -   -
+            2  11.34  6.363  3.0      2165     0.5285   45.0      -   -
+            2  11.34  7.613  4.0      3453     0.4746   80.0      -   -
+            2  11.34  8.862  5.0      5024     0.4358  125.0      -   -
+            2  11.34 10.11   6.0      6879     0.4066  180.0      -   -
+            2  11.34 11.36   7.0      9017     0.3838  245.0      -   -
+
+#            us = 2.006 + 1.538*up km/sec (fit 1)
+#            sig us = 0.014 km/sec
+#            us = 2.616 + 1.249*up km/sec (fit 2)
+#            sig us = 0.065 km/sec
+#
+#
+#
+#
+#     comments
+#
+#     1) source: compiler
+#     1a) the fits were made from the data of 27---1,2,4 and 7. the low
+#         pressure data listed in 27---8, were transferred directly without
+#         including the recalculated us and up points in the fit.
+#     2) fit 1 agrees essentially with the data of page 27---8 above 10 kbar
+#        but the lowest points suggest a lower intercept. their up values
+#        have been slightly readjusted to yield the proper value of p in a
+#        simple two-step process(see comments of 27---8).
+#     3) data of 27---3 are in greater disagreement, while us up values of
+#        27---6 are calculated points.
+
+
+
+
+
+
+     27---1                                                            page 1
+     lead
+
+     pb   99.8 per cent or greater
+
+
+
+     v0 = 0.0882 cc/g    cl = 2.16 km/sec.   c0 = 2.00 km/sec.
+     v0i = 0.0881 cc/g   cs = 0.70 km/sec
+
+     in the table below, velocities are given in mm/microsec.
+     pressure in kilobars, and density in g/cc.
+
+                                       table
+
+                       rho0   us     ufs    up      p    v/v0
+
+                      11.34  2.914  1.230  0.590  194.8  0.7975
+                        -    3.268  1.745  0.819  303.2  0.7494
+                        -    3.250  1.731  0.802  295.3  0.7532
+                        -    3.724  2.420  1.118  471.7  0.6998
+
+               us = 2.092 + 1.452 up km/sec   sigma us = 0.4 percent
+
+
+
+     comments:
+
+     1) source: walsh, j. m., rice, m. h., mcqueen, r. g. and yarger, f. l.
+                phys. rev., vol. 108, p. 169 ff. (1957)
+                los alamos scientific laboratory, gmx-6, los alamos, n. mex.
+     2) experimental technique b.
+        data reduction technique b.
+        standard material 24st aluminum.
+     3) impurities were measured by spectrochemical analysis.
+     4) cl and cs values were obtained from l. bergmann, der ultraschall,
+        s. hirzel verlag, stuttgart, 1954, 6th ed., p. 650
+     5) the probable error per data point is 0.7 per cent in shock velocity
+        for a given free-surface velocity and approximately 1 per cent in
+        compression at a given pressure.
+
+
+
+
+
+
+     27---2                                                            page 1
+     lead
+
+     pb
+
+
+
+     v0 = 0.0882 cc/g                        cb = 2.02 km/sec
+     v0i = 0.0881 cc/g
+
+     in the table below, velocities are given in mm/microsec.,
+     pressures in kilobars and density in g/cc.
+
+                                       table
+
+                      rho0    us     up      p     v/v0   pressure in
+                                                          brass standard
+
+                     11.34   4.52   1.64    838   0.638    842
+                             4.52   1.64    837   0.638    842
+                       -     5.44   2.25   1388   0.587   1354
+                       -     5.42   2.25   1383   0.585   1352
+
+         us = 2.028 + 1.517 up  km/sec.    sigma us = 0.11  percent
+
+
+
+     comments:
+
+     1) source: mcqueen, r.g. and marsh, s.p.
+                j. appl. phys., vol. 31, p. 1253 (1960)
+                los alamos scientific laboratory, gmx-6, los alamos, n. mex.
+     2) experimental technique b
+        data reduction technique b
+        standard material is brass
+     3) for the brass standard data see material 36-33
+     4) v0i was taken from the a. i. p. handbook (mcgraw hill book co.)
+        2nd ed.
+
+
+
+
+
+
+     27---3                                                            page 1
+     lead
+
+     pb
+
+
+
+     v0 = 0.0882 cc/g.
+     v0i = 0.0882 cc/g.                      cb = 2.00 km/sec.
+
+     in the table below, velocities are given km/sec.,
+     pressure in kilobars and density in g/cc.
+
+                                     table
+
+                        rho0   us     up      p     v/v0
+
+                      11.34   3.52   0.97    390   0.725
+                        -     5.33   2.34   1410   0.562
+                        -     7.65   4.26   3700   0.442
+
+         us = 2.30 + 1.27up km/sec.
+
+
+
+     comments:
+
+     1) source: al'tshuler, l. v., krupnikov, k. k. and brazhnik, m. i.
+                soviet phys.-tetp, vol. 7, p. 614, (1958)
+     2) experimental technique a
+        data reduction technique b
+        standard material fe.
+     3) cb is calculated using the volume compression coefficient taken from
+        p. w. bridgman, the physics of high pressure, (g. bell and sons ltd.
+                                                                london 1958)
+     4) v0i was obtained from the american institute of physics handbook
+        (mcgraw-hill book co. 1963) 2nd ed.
+     5) the specimen with a thickness between 6-8mm. was attached to an iron
+        plate of comparable thickness 6-9mm.
+
+
+
+
+
+
+     27---4                                                            page 1
+     lead
+
+     pb
+
+
+
+     v0 = 0.0882 cc/g.
+     v0i = 0.0881 cc/g.
+
+     in the table below, velocities are given in km/sec., pressure in
+     kilobars and density in g/cc. st designates the standard material used
+     as striker plate. u(st) is the striker velocity before impact.
+
+                                     table
+
+              rho0    us     up      p     v/v0    st   u(st)
+
+             11.34   4.92   1.88   1049   0.6180   al   5.60
+               -     6.07   2.76   1900   0.5453   fe   5.60
+               -     7.74   4.18   3669   0.4600   fe   8.64
+               -     8.26   4.45   4170   0.4613   fe   9.10
+               -    11.36   7.00   9150   0.3750   fe  14.68
+
+         us = 2.58 + 1.26 up    for up between 1.88 to 7.00 km/sec.
+         sigma us = 0.08 km/sec.
+
+
+
+     comments:
+
+     1) source: al'tshuler, l.v., kormer, s.b., bakanova, a.a.
+                 and trunin, r.f.
+                 soviet phys-jetp, vol. 11, page 573 (1960)
+                 al'tshuler, l. v. et al
+                 soviet phys.-jetp, vol. 15, p. 65 (1962)
+     2) experimental technique a
+        data reduction technique a
+     3) the pressures were produced by an explosively accelerated aluminum
+        or steel plate as indicated in column 6.
+     4) the inaccuracy in the determination of us and up for pressures to
+        4187 kilobars did not exceed 1.0 percent. each point is the average
+        of 4 to 6 experiments.
+     5) the u uncertainty of the values in the last table entry are:
+        1 percent in us obtained from 6-8 experiments and 1.5 percent in
+        u(st) obtained from 12 experiments.
+     6) v0i was obtained from the american institute of physics handbook
+        (mcgraw-hill book co. 1963) 2nd ed.
+        the corresponding lattice parameters for the face centered cubic cell
+        is 4.9496 angstroms.
+
+
+
+
+
+
+     27---5
+     lead porous                                                       page 1
+
+     pb  99.5 percent
+         average grain size is 8 microns
+
+
+
+     v0i = 0.08818 cc/g.
+     vo = 1/rho0 see table
+
+     in the table below, velocities are given in km/sec., pressures in
+     kilobars and density in g/cc. st designates the standard material and
+     the material of the striker plate. u(st) is the striker velocity before
+     impact. st labels the hugoniot variables of the iron sample holder.
+
+                                     table
+
+        - - - - - - - sample - - - - -       - - - - driver system - - - -
+
+        rho0   us    up  sigma  p   v/v0     st  u(st) us(st) up(st) p(st)
+                           us
+
+        6.79  7.79 4.995 .04  2642 .5988     fe   8.64  10.67  4.26  3568
+        6.79 12.74 8.439 .16  7300 .5637     fe  15.45
+
+        us =
+
+
+
+
+     comments:
+
+     1) source: kormer, s.b., funtikov, a.l., urlin, v.d.
+                and kolesnikova, a.n.
+                soviet phys.-jetp, vol. 15, p. 477 (1962)
+     2) experimental technique a
+        data reduction technique b
+     3) us is the average determination taken from 4-8 experiments, each
+        consisting of 4-6 readings.
+     4) v0i was obtained from the handbook of chemistry and physics (the
+        chemical rubber publishing co., cleveland, ohio, 1962-1963) 44th ed.
+
+
+
+
+
+
+     27---6                                                            page 1
+     lead
+
+     pb
+
+
+
+     v0 = 0.08826 g/cc.
+     v0i = 0.08818 g/cc.
+
+     the table below give the velocities of relaxation waves, c, at various
+     pressures. the hugoniot state the relaxation wave travels through is
+     given by us, up, p, or v/v0. density is given in g/cc., velocity in
+     km/sec. and pressure in kilobars. st designates the material of the
+     striker plate, u(st) is the velocity before impact and us(st) is the
+     shock velocity in the plate after impact.
+
+                                     table
+
+                                 sound velocity
+                             parallel to shock direction
+
+                  ---hugoniot state--------           --driver system--
+          rho0    us    up      p     v/v0      c     st   u(st)  us(st)
+
+         11.34   4.91   1.89   1052   0.6150          al   5.60   10.34
+           -     4.16   1.20    656   0.6658   4.24   al   5.60   10.34
+           -     3.72   1.10    464   0.7042   3.85   al   5.60   10.34
+           -     6.17   2.82   1973   0.5429          fe   5.71    8.61
+           -     5.53   2.34   1467   0.5767   5.16   fe   5.71    8.61
+           -     4.83   1.84   1008   0.6188   4.62   fe   5.71    8.61
+           -     4.41   1.56    780   0.6472   4.29   fe   5.71    8.61
+           -     7.92   4.28   3850   0.4593   6.56   fe
+           -     7.01   3.51   2795   0.4993   5.92   fe
+
+         us =
+
+
+
+     comments:
+
+     1) source: al'tshuler, l. v., kormer, s. b., brazhnik, m. i.,
+                vladimirov, l. a. and funtikov, a. i.
+                soviet phys.-jetp, vol.11, p. 766 (1960)
+     2) experimental technique a was used for the first three entries.
+        for all other entries the experimental technique b was used. the
+        hugoniot state was determined from one measured parameter and the
+        known equation of state. al'tshuler et al, soviet phys-jetp, vol. 11,
+        p. 573 (1960).
+     3) the sound velocity was determined from the attenuation in the meas-
+        ured shock or free surface velocity produced by the rarefaction wave
+        originating at the rear surface of the striker plate.
+     4) v0i was obtained from the handbook of chemistry and physics (the
+        chemical rubber publishing co., cleveland, ohio, 1962-1963) 44th ed.
+
+
+
+
+
+
+     27---7                                                            page 1
+     lead
+
+     pb
+
+
+
+     v0  = 0.08811 cc/g
+     v0i = 0.088176 cc/g
+
+     in the table below, density is given in g/cc, velocities in km/sec,
+     and pressure in kilobars.
+
+                                    table
+
+                            sample                           base plate
+
+         rho0     us     ufs    up       p     v/v0      material   pressure
+
+         11.35   4.66   3.77   1.74     920    0.626       al         618
+         11.35   2.91   1.22   0.59     195    0.797       al         146
+         11.35   3.70   2.30   1.09     457    0.705       al         324
+         11.35   2.63   0.82   0.40     120    0.848       brass      133
+         11.34   2.45   0.61   0.30      83    0.879       brass       95
+
+     us = 2.01 + 1.53 up  km/sec
+     sigma us = 0.019  km/sec
+
+
+
+     comments:
+
+     1) source: compiler
+                l.r.l.  equation of state file
+                lawrence radiation laboratory, livermore, california.
+     2) experimental technique b.
+        data reduction technique b.
+     3) the value of voi was obtained from  a. taylor and brenda j. kagle,
+        crystallographic data on metal and alloy structures
+        (dover publications, inc.,  new york, n. y.,  1963).
+
+
+
+
+
+
+     27---8                                                            page 1
+     lead
+
+     cu, fe, zn, bi, ag and others less than 0.082 wt percent
+     pb                             remainder      -     -
+
+
+
+     v0 = 0.08807 g/cc                                    c0 = 1.972 km/sec.
+     v0i= 0.08816 g/cc
+
+     the table lists all the pressures and compressions of the multiple wave
+     systems used in the data analysis of these relatively broad shock waves,
+     together with the hydrostatic pressure (ph) and the approximate usi and
+     upi values calculated from them. density is in g/cc, velocities in
+     km/sec and pressure or stress in kbars. no = experiment number. i indi-
+     cates the 1st, 2nd, 3rd etc. wave of the system. u = projectile velocity
+     and mat is the projectile material.
+
+                               table
+
+            u    rho0    us      up     p     v/v0    i   ph    mat
+
+          .0401  11.355  2.3   0.00093  .25  0.9996   1         pb
+                         1.94  0.0092  2.08  0.9953   2
+                         1.85  0.0179  3.90  0.9906   3
+                         2.    0.0191  4.20  0.9901   4   4.15
+
+          .0599    -     2.3   0.00091 0.24  0.9996   1         -
+                         1.96  0.0089  2.01  0.9955   2
+                         1.95  0.0190  4.23  0.9903   3
+                         1.91  0.0285  6.28  0.9853   4   6.22
+
+          .1264    -     2.08  0.0438 10.13  0.9785   1
+                         1.76  0.0523 11.82  0.9736   2  11.75  -
+
+          .3025    -     2.15  0.1146 27.95  0.9466   1  27.86  al 6061-t6
+
+          .5020    -     2.26  0.1834 47.24  0.9191   1  47.13  -    -
+
+          .4270    -     2.37  0.2546 68.55  0.8926   1  68.42  ni
+
+          .4940    -     2.44  0.2822 78.12  0.8842   1  77.99  -
+
+          us = see comment 3
+
+
+
+
+
+
+     comments
+
+     1) source: munson, d. e. and barker, l. m.
+                j. appl. phys.,  vol. 37, p. 1652, (1966)
+                sandia corporation, albuquerque, new mexico.
+     2) experimental technique f
+        data reduction method d with 2up = ufs
+                              with the modification that a smooth broad wave
+        is approximated by a set of discreet pressure steps. the shock velo-
+        city measurements were corrected for errors introduced by surface
+        interactions.
+     3) note that usi and upi are only approximate numbers calculated from
+        the pi and vi/v0 values to illustrate the wave thickness. in the
+        fit below us is obtained from the maximum value of ph of the particu-
+        lar wave system and the corresponding value of vi, using the equality
+        us = v0(ph/(v0-vi))**1/2, while up was taken to be 1/2 the maximum
+        free surface velocity. these points are combined with data from los-
+        alamos scientific laboratory to give:
+                  us = 1.952 + 1.562*up  km/sec, up from 0 to 2.3 km/sec.
+                  max. deviation  3.4 percent
+     4) ph = pi - 2/3*y, where the yield point y is a function of the degree
+        of work hardening.
+     5) v0i was calculated from the cubic unit cell constant given in
+        wyckoff, crystal structures (interscience publishers, new york, 1963)
+        a = 4.9505 angstrom.

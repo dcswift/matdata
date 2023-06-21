@@ -1,0 +1,291 @@
+#    92---1                                                            page 1
+#    beryllium
+
+#    be     100 percent
+
+
+
+
+#    v0 = .5402 cc/g                         c0 = 8.137 km/sec
+#    v0i = .540 cc/g                         cb = 7.934 km/sec
+
+#     in the table below, density is given in g/cc, velocities in mm/microsec
+#     and pressure in kilobars.
+
+#                                    table
+
+#              ---------beryllium---------------      aluminum standard
+
+#              rho0     Us     Up    P     v/v0       rho0    Us
+
+               1.851   9.174  .931  158.1  .8985      2.784  6.566
+                       9.137  .932  157.6  .8980      2.784  6.566
+                      10.146 1.818  341.4  .8208      2.784  7.670
+                      10.128 1.819  341.0  .8204      2.784  7.670
+                      10.111 1.821  340.8  .8199      2.784  7.670
+                      10.758 2.336  465.2  .7829      2.788  8.306
+                      11.143 2.689  554.6  .7587      2.788  8.735
+                      11.120 2.691  553.9  .7580      2.788  8.735
+                      11.530 3.001  640.5  .7397      2.788  9.117
+                      11.451 3.009  637.8  .7372      2.788  9.117
+                      12.165 3.620  815.1  .7024      2.784  9.858
+                      12.160 3.621  815.0  .7022      2.784  9.858
+                      12.445 3.799  875.1  .6947      2.783 10.08
+                      12.491 3.816  882.3  .6945      2.780 10.11
+                      12.535 3.951  916.7  .6848      2.788 10.25
+
+#         Us = 8.056 + 1.145 up,  sig.Us = 0.038 km/sec.
+
+
+
+#    comments:
+
+#    1) source: mcqueen, r.g. and marsh, s.p.
+#               report no. gmx-6-566, pp. 51-62 (1964)
+#               los alamos scientific laboratory, gmx-6, los alamos, n. mex.
+#    2) experimental technique b
+#       data reduction technique b
+#       standard material 2024 aluminum
+#    3) the hugoniot elastic limit is highly dependent on crystal orientation
+#       pope,l.e. and johnson j.n.   j. appl. phys.  v.46 p.720 (1975)
+
+
+
+#    92---2                                                            page 1
+#    beryllium
+
+#    be   99.8 per cent or greater
+
+
+
+#    v0 = 0.5420 cc/g.   cl = 12.89 km/sec.  c0 = 7.81 km/sec.
+#    v0i = 0.5412 cc/g.  cs = 8.880 km/sec
+
+#    in the table below, velocities are given in mm/microsec.,
+#    pressure in kilobars, and density in g/cc.
+
+#                                      table
+
+#                      rho0   Us     ufs    Up      P     v/v0
+
+                      1.845  9.044  1.697  0.847  141.3  0.9063
+                        -    8.934  1.739  0.865  142.6  0.9032
+                        -    9.112  2.358  1.189  199.9  0.8695
+                        -    9.332  2.364  1.221  210.2  0.8692
+                        -    9.851  3.422  1.730  314.4  0.8244
+                        -    9.832  3.235  1.609  291.9  0.8364
+                        -    9.633  3.189  1.592  282.9  0.8347
+
+#              Us = 8.069 + 1.023 up km/sec   sigma Us = 1.2 percent
+
+
+
+#    comments:
+
+#    1) source: walsh, j. m., rice, m. h., mcqueen, r. g. and yarger, f. l.
+#               phys. rev., vol. 108, p. 169 ff. (1957)
+#               los alamos scientific laboratory, gmx-6, los alamos, n. mex.
+#    2) experimental technique b
+#       data reduction technique b
+#       standard material 24st aluminum
+#    3) impurities were measured by spectrochemical analysis.
+#    4) cl and cs were obtained from d. gray, american institute of physics
+#       handbook, 1957, 2nd. ed., p. 33-82
+#    5) the probable error per data point is 0.7 per cent in shock velocity
+#       for a given free-surface velocity and approximately 1 percent in
+#       compression at a given pressure.
+#    6) v0i was taken from the a. i. p. handbook (mcgraw hill book co.)
+#       2nd ed.
+
+
+
+#    92---3
+#    beryllium porous                                                  page 1
+
+#    be
+
+
+
+#    vo  = 0.772  cc/g
+#    voi = 0.5420 cc/g
+
+#    in the table below, density is given in g/cc, velocities in km/sec
+#    and pressure in kilobars.
+
+#                               table
+
+#                          sample                     al base plate
+
+#        rho0     Us     ufs    Up       P     v/v0      pressure
+
+         1.274    3.93   1.57   1.40     70   0.644       165
+         1.31     4.96   2.43   1.68    109   0.661       224
+         1.295    5.43   3.08   2.11    148   0.612       296
+         1.31     6.17   3.57   2.24    182   0.637       335
+
+#    Us = 0.79 + 2.33 up  km/sec
+#    sigma Us = 0.302  km/sec
+
+
+
+#    comments:
+
+#    1) source: compiler
+#               l.r.l. equation of state file
+#               lawrence radiation laboratory, livermore, california.
+#    2) experimental technique b.   standard material 2024 al alloy.
+#       data reduction technique b.
+#    3) the value of v0i was obtained from a. taylor and brenda j. kagle,
+#       crystallographic data on metal and alloy structures
+#       (dover publications, inc.,  new york,  n. y.,  1963).
+
+
+
+#    92---4
+#    beryllium
+
+#    type     s-200         i-400
+#    be       98.18         95.77    wt. percent
+#    be-o      2.00          3.96    -      -
+#    c         0.126         0.18    -      -
+#    fe        0.163         0.16    -      -
+#    al        0.054         0.04    -      -
+#    mg        0.035         0.02    -      -
+#    si        0.080         0.04    -      -
+#    mn        ----          0.01    -      -
+#    rest      0.04 max      0.10    -      -
+
+
+
+#    s-200 :
+#    v0 = 0.5385 cc/g         cl= 12.916 km/sec        c0= 7.87 km/sec
+#                             cs=  8.86  km/sec
+#    i-400 :
+#    v0 = 0.5316 cc/g         cl= 12.83  km/sec        c0= 7.83 km/sec
+#                             cs=  8.80  km/sec
+#    v0i= 0.5421 cc/g
+
+#    the table lists rho0 in g/cc, velocities in km/sec and p in kbars.
+#    fs= fansteel, cu= copper and wf= weighting factor.
+
+#                                 table
+
+#       - - - - - - - - sample - - - - - - - - -   - - impactor - -
+
+#        mat  rho0     Us     Up      P    v/v0    mat    u     wf
+
+        s-200 1.851   9.965  1.631   302.  .8363    fs  2.205   3
+          -   1.851  10.266  1.903   363.  .8147    cu  2.695   3
+          -   1.851  11.779  3.459   757.  .7063    fs  4.330   3
+          -   1.851  12.218  3.990   905.  .6734    cu  5.596   1
+          -   1.851  13.034  4.792  1160.  .6324    fs  7.734   3
+          -   1.851  13.970  5.678  1473.  .5936    cu  7.945   3
+          -   1.851  14.324  6.139  1633.  .5714    fs  7.734   1
+        i-400 1.881  10.981  2.549   526.  .7679    fs  3.191   0
+
+#           Us = 8.390 + 0.975*Up km/sec
+#           sig.Us = 0.017 km/sec
+
+#    comments:
+
+#    1) source: isbell w.m., shipman f.h. and jones a.h.
+#               hugoniot equation of state of eleven materials to five mbars.
+#               materials science laboratory report: msl-68-13
+#    2) experimental technique: a
+#       data reduction method : a
+#    3) nominal uncertainties are: (sig.us)/Us = .005 and (sig.u)/u = .005
+#    4) also listed: poissons ratio: 0.055; ultimate tensile strength:
+#       3.98 kbar (s-200); 4.60 kbar (i-400); yield strength: 2.58 kbar
+#       (s-200); 3.86 kbar (i-400)
+#    5) v0i obtained from wyckoff crystal structures
+#       (john wiley and sons, n.y. 1963) vol.1
+
+
+
+#    92---5
+#    beryllium
+
+#    be             comment 5
+#    o                -     -
+
+
+
+#    v0 = 0.5402 cc/g   cl = 13.18 km/sec   c0 = 8.14 km/sec
+#    v0i = 0.5421 cc/g  cs = 8.98 km/sec    cb = 7.93 km/sec
+
+
+#    in the table below, velocities are given in km/sec, pressure in kilobars
+#    and density in g/cc.
+
+#                                     table
+
+#       ----------------sample-------------------       -----standard-----
+
+#        Rho0       Us       Up       P       V/Vo        material us(st)
+
+#        1.850     8.99     0.34     57.     0.9622       cu        4.31
+#        1.850     8.58     0.48     76.     0.9441       2024 al   5.96
+#        1.850     8.67     0.49     79.     0.9435       2024 al   5.98
+#        1.850     8.60     0.50     80.     0.9419       2024 al   5.98
+#        1.850     8.59     0.50     79.     0.9418       2024 al   5.98
+#        1.850     8.78     0.68    110.     0.9226       2024 al   6.22
+#        1.851     9.04     0.88    147.     0.9027       2024 al   6.47
+#        1.851     9.01     0.88    147.     0.9023       2024 al   6.47
+#        1.850     9.05     0.93    156.     0.8972       2024 al   6.53
+#        1.850     9.02     0.93    155.     0.8969       2024 al   6.53
+#        1.850     9.05     0.94    157.     0.8961       2024 al   6.54
+#        1.850     9.05     1.02    171.     0.8873       921-t al  6.43
+#        1.850     9.03     1.02    170.     0.8870       921-t al  6.43
+#        1.850     9.42     1.25    218.     0.8673       2024 al   6.92
+#        1.850     9.06     1.25    210.     0.8620       2024 al   6.91
+#        1.850     9.02     1.26    210.     0.8603       2024 al   6.91
+#        1.850     9.39     1.34    233.     0.8573       921-t al  6.86
+#        1.850     9.36     1.34    232.     0.8568       921-t al  6.86
+#        1.850     9.96     1.75    322.     0.8243       2024 al   7.55
+#        1.850     9.94     1.75    322.     0.8239       2024 al   7.55
+#        1.851    10.00     1.76    326.     0.8240       2024 al   7.56
+#        1.851     9.98     1.76    325.     0.8236       2024 al   7.56
+#        1.851     9.97     1.76    325.     0.8235       2024 al   7.56
+#        1.850    10.01     1.77    328.     0.8232       921-t al  7.43
+#        1.850     9.97     1.78    328.     0.8215       921-t al  7.43
+#        1.850     9.97     1.80    332.     0.8195       2024 al   7.60
+#        1.850    10.01     1.84    341.     0.8162       921-t al  7.52
+#        1.850     9.99     1.85    342.     0.8148       921-t al  7.52
+#        1.850    10.58     2.21    433.     0.7911       2024 al   8.12
+#        1.851    10.60     2.27    445.     0.7858       2024 al   8.19
+#        1.851    10.98     2.62    532.     0.7614       2024 al   8.61
+#        1.851    10.96     2.63    534.     0.7600       2024 al   8.61
+#        1.853    11.07     2.78    570.     0.7489       921-t al  8.72
+#        1.850    11.41     2.92    616.     0.7441       2024 al   8.98
+#        1.851    11.36     2.93    616.     0.7421       2024 al   8.99
+#        1.851    11.29     2.94    614.     0.7396       2024 al   8.99
+#        1.855    11.42     3.16    669.     0.7233       2024 al   9.24
+#        1.851    11.84     3.38    741.     0.7145       921-t al  9.47
+#        1.851    11.78     3.39    739.     0.7122       921-t al  9.47
+#        1.835    11.86     3.44    749.     0.7099       921-t al  9.54
+#        1.851    11.98     3.54    785.     0.7045       2024 al   9.72
+#        1.851    11.99     3.54    786.     0.7048       2024 al   9.72
+#        1.851    12.08     3.72    832.     0.6921       921-t al  9.88
+#        1.851    12.27     3.72    845.     0.6968       2024 al   9.94
+#        1.851    12.31     3.74    852.     0.6962       2024 al   9.96
+#        1.851    12.35     3.87    885.     0.6866       2024 al  10.11
+
+#    Us = 7.998 + 1.124*Up km/sec
+#    sigma Us =  0.137   km/sec
+
+
+
+#    comments:
+
+#    1) source: mcqueen, r.g., marsh, s.p., taylor, j.w., fritz, j.m.,
+#               and carter, w.j.
+#               the equation of state of solids from shock wave studies,
+#               high velocity impact phenomena, kinslow (ed.) (academic
+#               press, new york, 1970) chapter vii
+#    2)  experimental technique: b
+#        data reduction technique: b
+#    3)  v0i from wyckoff, crystal structures (interscience publishers, n.y.
+#        (1963) v1
+#    4)  v(dp/de) = 1.16
+#    5)  oxygen content probably small.  samples were sintered.
+#    6) hugoniot elastic limit 40. kbar (c-axis), 4. kbar. basal plane

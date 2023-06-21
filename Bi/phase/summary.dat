@@ -1,0 +1,9 @@
+#rho(g/cc) p(GPa) T(K)
+
+# 1 atm melt, liquidus
+10.05 1.013e-4 544.7
+
+
+#Sebban Hugoniot melting solidus approx
+#/Martin Gorman's thesis
+13.58 19.0 1350
